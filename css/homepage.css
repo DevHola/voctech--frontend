@@ -314,6 +314,12 @@
     line-height: 37px;
     letter-spacing: 1px;
   }
+  #contact {
+    background-image: url("../images/Ellipse\ 2.png");
+    background-repeat: no-repeat;
+    height: 105vh;
+    background-size: contain;
+  }
   #navigation {
     display: flex;
     flex-direction: column;
@@ -805,5 +811,11 @@
     align-items: center;
     font-size: 20px;
     padding-left: 20px;
+  }
+
+  #contact {
+    background-image: none;
+    background-repeat: no-repeat;
+    height: 175vh;
   }
 }
