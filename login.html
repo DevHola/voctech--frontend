@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat"
+      rel="stylesheet"
+    />
+    <!-- CSS only -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"
+      integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <div class="bg-holder">
+      <section class="header">
+        <img src="./images/VOCTECH.png" class="logo" alt="logo" />
+
+        <ul id="navigation">
+          <li><a class="active" href="index.html">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="Trainings.html">Trainings</a></li>
+          <li><a href="#contact">Contact Us</a></li>
+          <li><a href="store.html">Store</a></li>
+          <a id="signup" style="color: indianred" href="register.html"
+            >Register</a
+          >
+          <a id="login" href="login.html">Login</a>
+          <a href="#" id="close"><i class="fa-solid fa-xmark"></i></a>
+        </ul>
+        <div id="mobile">
+          <i id="bar" class="fas fa-outdent"></i>
+        </div>
+
+        <ul class="nav-button">
+          <li><a style="color: indianred" href="register.html">Register</a></li>
+          <li><a href="login.html">Login</a></li>
+        </ul>
+      </section>
+      <section
+        class="shadow-lg mx-auto rounded mb-5 container p-5 justify-content-center hitter"
+      >
+        <div class="d-flex justify-content-end">
+          <p style="font-family: 'Montserrat'" class="me-4">
+            Don’t have an Account?
+          </p>
+          <div><a class="register" href="register.html">Register</a></div>
+        </div>
+        <div class="row">
+          <div class="mt-5 col-sm p-5 align-items-buttom text-center">
+            <h1 class="mb-3" style="font-family: 'Montserrat'">
+              Hello! Welcome back.
+            </h1>
+            <img src="./images/Rectangle.png" class="img-fluid" alt="" />
+          </div>
+          <div
+            class="col-sm pt-5 pb-5 mb-5 align-items-center text-center"
+            style="background-color: transparent"
+          >
+            <img
+              src="./images/carbon_user-avatar.png"
+              class="img-fluid"
+              alt=""
+            />
+            <div class="mt-4 col-8 mx-auto logic">
+              <h3>Sign in to your Account</h3>
+              <form>
+                <div class="mb-4">
+                  <input
+                    type="text"
+                    style="
+                      font-family: 'Montserrat';
+                      border-radius: 25px;
+                      border: 1px solid indianred;
+                      font-weight: 600;
+                      color: #777171;
+                    "
+                    class="form-control add text-center"
+                    placeholder="Email/Phone Number"
+                  />
+                </div>
+                <div class="mb-4">
+                  <input
+                    type="password"
+                    style="
+                      font-family: 'Montserrat';
+                      border-radius: 25px;
+                      border: 1px solid indianred;
+                      font-weight: 600;
+                      color: #777171;
+                    "
+                    class="form-control add text-center"
+                    placeholder="Password"
+                  />
+                </div>
+                <div class="mb-4 forget">
+                  <a href="" style="font-family: 'Montserrat'"
+                    >Forget password</a
+                  >
+                </div>
+                <div class="d-grid">
+                  <div class="d-flex justify-content-between">
+                    <button class="cancel">Cancel</button>
+                    <button class="in">Sign in</button>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
