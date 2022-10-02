@@ -99,6 +99,9 @@
 
   align-items: center;
 }
+.mart {
+  margin-top: 0px;
+}
 .nav-button {
   display: flex;
   justify-content: space-evenly;
@@ -355,6 +358,9 @@
     font-size: 12px;
     line-height: 15px;
     color: white;
+  }
+  .mart {
+    margin-top: 0px;
   }
 
   #signup {
@@ -816,7 +822,7 @@
   #contact {
     background-image: none;
     background-repeat: no-repeat;
-    height: 190vh;
+    height: 200vh;
   }
 
   .mart {
