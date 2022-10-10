@@ -84,7 +84,7 @@
 }
 #navigation li a {
   text-decoration: none;
-  font-family: Montserrat;
+  font-family: "Montserrat", sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 12px;
@@ -120,6 +120,7 @@
   font-weight: 700;
   font-size: 12px;
   line-height: 15px;
+  font-family: "Inter";
 }
 .nav-button li:nth-last-child(1) {
   background: #e26e4e;
@@ -358,6 +359,7 @@
     font-size: 12px;
     line-height: 15px;
     color: white;
+    font-family: "Inter";
   }
   .mart {
     margin-top: 0px;
@@ -375,6 +377,7 @@
     font-size: 12px;
     line-height: 15px;
     margin-bottom: 10px;
+    font-family: "Inter";
   }
   #navigation li a {
     text-decoration: none;

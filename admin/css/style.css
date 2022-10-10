@@ -7,6 +7,7 @@
 .sp1 {
   letter-spacing: 1px;
   font-size: 20px;
+  font-family: "Montserrat";
 }
 .monaco {
   display: flex;
@@ -17,6 +18,7 @@
   color: white;
   border: none;
   padding: 7px 20px;
+  font-family: "Montserrat";
 }
 .sixty {
   width: 60%;
@@ -29,6 +31,7 @@
   background-color: white;
   color: #777171;
   width: 100%;
+  font-family: "Montserrat";
   outline: none;
   padding-left: 35px;
   font-size: 20px;
@@ -43,6 +46,7 @@
 .pagination1 form button {
   background-color: indianred;
   color: white;
+  font-family: "Montserrat";
   padding: 12px 12px;
   font-weight: 600;
   border: none;
@@ -54,7 +58,7 @@
 }
 
 .pagination1 input.nosubmit {
-  width: 85%;
+  width: 75%;
   border: none;
   display: block;
   padding: 9px 4px 9px 40px;
@@ -78,6 +82,7 @@
   font-weight: 600;
   margin-top: -10px;
   font-size: 20px;
+  font-family: "Montserrat";
 }
 #pghold {
   width: 63%;
@@ -95,6 +100,7 @@
 }
 #pghold ul li a {
   text-decoration: none;
+  font-family: "Montserrat";
   color: black;
 }
 #pghold ul li a:hover {
@@ -106,10 +112,12 @@
 }
 .search input {
   height: 40px;
+  font-family: "Montserrat";
 }
 .search form.nosubmit {
   border: none;
   padding: 0;
+  font-family: "Montserrat";
 }
 
 .search input.nosubmit {
@@ -120,6 +128,7 @@
   background: white
     url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' class='bi bi-search' viewBox='0 0 16 16'%3E%3Cpath d='M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z'%3E%3C/path%3E%3C/svg%3E")
     no-repeat 13px center;
+  font-family: "Montserrat";
 }
 
 .sp {
@@ -128,7 +137,7 @@
 }
 .abijan {
   border-bottom: 1px solid black;
-
+  font-family: "Montserrat";
   font-weight: 600;
 }
 .merger {
@@ -138,6 +147,7 @@
   padding: 5px 10px;
   color: white;
   border: none;
+  font-family: "Montserrat";
 }
 .typer {
   width: 40%;
@@ -155,6 +165,7 @@
   color: white;
   text-decoration: none;
   padding: 30px 50px;
+  font-family: "Montserrat";
   background-color: rgb(250, 193, 44);
   margin: 0px 20px;
   font-weight: 600;
@@ -187,14 +198,17 @@
 .execute {
   font-size: 14px;
   font-weight: 700;
+  font-family: "Montserrat";
 }
 .another {
   font-size: 14px;
   font-weight: 500;
+  font-family: "Montserrat";
   color: grey;
 }
 .another1 {
   font-size: 14px;
+  font-family: "Montserrat";
   font-weight: 500;
   padding-top: 0px;
   color: grey;
@@ -203,6 +217,7 @@
   font-size: 14px;
   padding-top: 25px;
   font-weight: 500;
+  font-family: "Montserrat";
   color: grey;
 }
 .toping {
@@ -214,12 +229,14 @@
 }
 .another1 {
   margin-top: 50px;
+  font-family: "Montserrat";
   font-size: 14px;
   font-weight: 500;
   color: grey;
 }
 .input-boxer {
   width: 60%;
+
   padding: 10px 0px;
 }
 .nile {
@@ -227,16 +244,19 @@
   font-size: 33px;
   font-weight: 600;
   margin: 0px;
+  font-family: "Montserrat";
 }
 .naira span {
   font-weight: 600;
   font-size: 15px;
+  font-family: "Montserrat";
   letter-spacing: 1px;
 }
 .nile-inner span {
   letter-spacing: 0px;
   text-align: right;
   font-size: 10px;
+  font-family: "Montserrat";
   padding-left: 40px;
 }
 .rowwer {
@@ -261,6 +281,7 @@
   font-weight: 600;
   background-color: #60be68;
   color: white;
+  font-family: "Montserrat";
   border: none;
 }
 
@@ -268,6 +289,7 @@
   height: 45px;
   width: 100%;
   outline: none;
+  font-family: "Montserrat";
   border: none;
   border-radius: 2px;
   text-align: left;
@@ -295,6 +317,7 @@
   background-color: rgb(226, 110, 78);
   padding: 10px 20px;
   font-size: 14px;
+  font-family: "Montserrat";
   font-weight: 600;
 }
 .canto {
@@ -306,7 +329,7 @@
 .revieww {
   text-decoration: none;
   color: white;
-
+  font-family: "Montserrat";
   padding: 10px 20px;
   font-size: 14px;
   font-weight: 600;
@@ -327,6 +350,7 @@
 .delete {
   text-decoration: none;
   color: white;
+  font-family: "Montserrat";
   background-color: red;
   padding: 10px 20px;
   font-size: 14px;
@@ -338,13 +362,14 @@
   background-color: rgb(96, 190, 104);
   padding: 10px 40px;
   font-size: 14px;
+  font-family: "Montserrat";
   font-weight: 600;
   border: none;
 }
 .Approve {
   text-decoration: none;
   color: white;
-
+  font-family: "Montserrat";
   padding: 10px 50px;
   font-size: 14px;
   font-weight: 600;
@@ -354,6 +379,7 @@
 .review1 {
   text-decoration: none;
   color: white;
+  font-family: "Montserrat";
   background-color: rgb(226, 110, 78);
   padding: 10px 11px;
   font-size: 14px;
@@ -362,6 +388,7 @@
 textarea {
   height: 100px;
   width: 300px;
+  font-family: "Montserrat";
   outline: none;
   border: none;
   border-radius: 2px;
@@ -377,12 +404,14 @@ textarea {
 .bw span {
   color: indianred;
   font-size: 15px;
+  font-family: "Montserrat";
   font-weight: 600;
 }
 .bw h3 {
   color: white;
   font-size: 25px;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .hello .circle .mask,
 .hello .circle .fill {
@@ -410,6 +439,7 @@ textarea {
   text-decoration: none;
   color: white;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .mell a:hover {
   text-decoration: none;
@@ -475,6 +505,7 @@ textarea {
   font-size: 20px;
   font-weight: 600;
   color: white;
+  font-family: "Montserrat";
 }
 
 .stats-inner {
@@ -489,6 +520,7 @@ textarea {
   font-size: 30px;
   font-weight: 600;
   text-align: right;
+  font-family: "Montserrat";
   color: white;
 }
 
@@ -497,6 +529,7 @@ textarea {
   font-weight: 600;
   color: white;
   text-align: right;
+  font-family: "Montserrat";
 }
 .header {
   display: flex;
@@ -530,6 +563,7 @@ textarea {
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: "Montserrat";
 }
 .hfb {
   padding: 12px 5px;
@@ -540,6 +574,7 @@ textarea {
   letter-spacing: 1px;
   font-size: 15px;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .bnav {
   padding: 15px 40px;
@@ -594,6 +629,7 @@ textarea {
   text-decoration: none;
   color: white;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .main {
   display: flex;
@@ -611,6 +647,7 @@ textarea {
   font-size: 16px;
   font-weight: 600;
   color: #777171;
+  font-family: "Montserrat";
 }
 .main ul li a:hover {
   text-decoration: none;
@@ -671,6 +708,7 @@ textarea {
   margin-right: 10px;
   color: white;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .grey-area1 {
   background-color: #e8e8e8;
@@ -736,6 +774,7 @@ textarea {
 }
 .popup1 h5 {
   color: white;
+  font-family: "Montserrat";
   margin: 10px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -746,7 +785,7 @@ textarea {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
-
+  font-family: "Montserrat";
   color: white;
   border-radius: 20px;
 }
@@ -775,6 +814,7 @@ textarea {
   font-weight: 600;
   letter-spacing: 1px;
   font-size: 20px;
+  font-family: "Montserrat";
 }
 .pp {
   width: 100%;
@@ -787,6 +827,7 @@ textarea {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
+  font-family: "Montserrat";
 
   color: white;
   border-radius: 20px;
@@ -811,6 +852,7 @@ textarea {
 }
 .popup44 h5 {
   color: white;
+  font-family: "Montserrat";
   margin: 10px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -827,7 +869,7 @@ textarea {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
-
+  font-family: "Montserrat";
   color: white;
   border-radius: 20px;
 }
@@ -851,15 +893,18 @@ textarea {
   color: indianred;
   font-weight: 600;
   font-size: 25px;
+  font-family: "Montserrat";
 }
 .wb span {
   color: indianred;
   font-size: 15px;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .wb h3 {
   color: white;
   font-size: 25px;
+  font-family: "Montserrat";
   font-weight: 600;
 }
 .job {
@@ -898,7 +943,7 @@ textarea {
   display: none;
 }
 #customers1 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat";
   border-collapse: collapse;
   width: 100%;
   color: #777171;
@@ -909,6 +954,7 @@ textarea {
   padding: 10px;
   font-weight: 500;
   letter-spacing: 1px;
+  font-family: "Montserrat";
 }
 
 #customers1 th {
@@ -918,10 +964,11 @@ textarea {
   font-size: 20px;
   letter-spacing: 1px;
   color: black;
+  font-family: "Montserrat";
 }
 
 #customers {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Montserrat";
   border-collapse: collapse;
   width: 100%;
   color: white;
@@ -932,12 +979,14 @@ textarea {
   padding: 8px;
   font-weight: 600;
   letter-spacing: 1px;
+  font-family: "Montserrat";
 }
 
 #customers th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
+  font-family: "Montserrat";
 
   color: white;
 }
@@ -958,14 +1007,17 @@ textarea {
   margin-top: 50px;
   color: white;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .grey-area p {
   font-weight: 600;
   font-size: 25px;
+  font-family: "Montserrat";
 }
 .grey-area2 p {
   font-weight: 600;
   font-size: 25px;
+  font-family: "Montserrat";
 }
 .above-link ul {
   display: flex;
@@ -985,6 +1037,7 @@ textarea {
 }
 .above-link ul li a {
   font-size: 20px;
+  font-family: "Montserrat";
   color: #e26e4e;
   font-weight: 600;
   text-decoration: none;
@@ -1006,6 +1059,7 @@ textarea {
   color: #e26e4e;
   width: 30%;
   letter-spacing: 3px;
+  font-family: "Montserrat";
   font-size: 25px;
   font-weight: 600;
 }
@@ -1013,6 +1067,7 @@ textarea {
   height: 60px;
   width: 100%;
   outline: none;
+  font-family: "Montserrat";
   border: none;
   border-radius: 2px;
   text-align: left;
@@ -1029,6 +1084,7 @@ textarea {
 input {
   height: 50px;
   width: 100%;
+  font-family: "Montserrat";
   outline: none;
   border: none;
   border-radius: 2px;
@@ -1042,6 +1098,7 @@ select {
   height: 50px;
   background-color: white;
   color: #777171;
+  font-family: "Montserrat";
   width: 100%;
   outline: none;
   padding-left: 15px;
@@ -1053,6 +1110,7 @@ select {
   color: indianred;
   font-size: 25px;
   font-weight: 600;
+  font-family: "Montserrat";
 }
 .summer {
   display: flex;
@@ -1063,6 +1121,7 @@ select {
 .summer button {
   background-color: #e26e4e;
   color: white;
+  font-family: "Montserrat";
   border: none;
   font-size: 15px;
   font-weight: 600;
@@ -1077,6 +1136,7 @@ select {
 .summ button {
   background-color: #e26e4e;
   color: white;
+  font-family: "Montserrat";
   border: none;
   font-size: 15px;
   font-weight: 600;
@@ -1107,11 +1167,13 @@ select {
   color: #e26e4e;
   font-weight: 600;
   font-size: 15px;
+  font-family: "Montserrat";
 }
 .user1-details h6 {
   color: white;
   font-size: 25px;
   font-weight: 500;
+  font-family: "Montserrat";
   letter-spacing: 1px;
 }
 
