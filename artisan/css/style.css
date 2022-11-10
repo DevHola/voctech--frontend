@@ -12,91 +12,91 @@
   border-radius: 50%;
   border: 1px solid #cdcbd0;
 }
-.thanos {
+.thanos-artisan {
   width: 5%;
   text-align: right;
 }
-.execute {
+.execute-artisan {
   font-family: "Montserrat";
   font-size: 14px;
   font-weight: 700;
 }
-.another {
+.another-artisan {
   font-size: 14px;
   font-family: "Montserrat";
   font-weight: 500;
   color: grey;
 }
-.another1 {
+.another1-artisan {
   font-size: 14px;
   font-family: "Montserrat";
   font-weight: 500;
   padding-top: 0px;
   color: grey;
 }
-.anotherone {
+.anotherone-artisan {
   font-size: 14px;
   font-family: "Montserrat";
   padding-top: 25px;
   font-weight: 500;
   color: grey;
 }
-.toping {
+.toping-artisan {
   padding-top: 20px;
 }
-.dinner {
+.dinner-artisan {
   display: grid;
   margin-top: -20px;
 }
-.another1 {
+.another1-artisan {
   margin-top: 50px;
   font-size: 14px;
   font-weight: 500;
   font-family: "Montserrat";
   color: grey;
 }
-.input-boxer {
+.input-boxer-artisan {
   width: 60%;
   padding: 10px 0px;
 }
-.nile {
+.nile-artisan {
   color: indianred;
   font-size: 33px;
   font-weight: 600;
   font-family: "Montserrat";
   margin: 0px;
 }
-.naira span {
+.naira-artisan span {
   font-weight: 600;
   font-size: 15px;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
-.nile-inner span {
+.nile-inner-artisan span {
   letter-spacing: 0px;
   text-align: right;
   font-size: 10px;
   font-family: "Montserrat";
   padding-left: 40px;
 }
-.rowwer {
+.rowwer-artisan {
   display: flex;
   align-items: center;
 }
-.row1 {
+.row1-artisan {
   width: 35%;
 }
-.hella-main {
+.hella-main-artisan {
   padding: 10px 0px;
   justify-content: flex-end;
   display: flex;
   width: 100%;
   align-items: center;
 }
-.hell {
+.hell-artisan {
   width: 20%;
 }
-.hella {
+.hella-artisan {
   padding: 20px 70px;
   font-weight: 600;
   font-family: "Montserrat";
@@ -105,7 +105,7 @@
   border: none;
 }
 
-.input-boxer > input {
+.input-boxer-artisan > input {
   height: 45px;
   width: 100%;
   outline: none;
@@ -119,19 +119,19 @@
   padding-left: 15px;
   font-weight: 600;
 }
-.gether {
+.gether-artisan {
   display: flex;
   width: 50%;
   justify-content: space-between;
   align-items: flex-start;
 }
-.bring {
+.bring-artisan {
   background-color: white;
   padding: 10px 10px;
   width: 50%;
 }
 
-.review {
+.review-artisan {
   text-decoration: none;
   color: white;
 
@@ -141,7 +141,7 @@
   font-weight: 600;
   font-family: "Montserrat";
 }
-.review1 {
+.review1-artisan {
   text-decoration: none;
   color: white;
   background-color: rgb(226, 110, 78);
@@ -162,34 +162,34 @@ textarea {
   font-family: "Montserrat";
   font-weight: 600;
 }
-#mobile {
+#mobile-artisan {
   display: none;
   align-items: center;
 }
-#mobile1 {
+#mobile1-artisan {
   display: none;
   align-items: center;
 }
 
-.bw {
+.bw-artisan {
   padding-top: 50px;
 }
-.bw span {
+.bw-artisan span {
   color: indianred;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.bw h3 {
+.bw-artisan h3 {
   color: white;
   font-size: 25px;
   font-family: "Montserrat";
   font-weight: 600;
 }
-#close1 {
+#close1-artisan {
   display: none;
 }
-#close2 {
+#close2-artisan {
   display: none;
 }
 .hello .circle .mask,
@@ -281,7 +281,7 @@ textarea {
   text-align: right;
   font-family: "Montserrat";
 }
-.header {
+.header-artisan {
   display: flex;
   background-image: url("../images/Group\ 41.png");
   background-repeat: no-repeat;
@@ -289,37 +289,37 @@ textarea {
   height: 100px;
   width: 100%;
 }
-.header-first {
+.header-first-artisan {
   width: 17%;
   color: white;
 }
-.header-second {
+.header-second-artisan {
   width: 83%;
 }
-.hff {
+.hff-artisan {
   padding: 12px 50px;
   background-color: rgb(226, 110, 78);
   text-align: left;
   font-family: "Montserrat";
 }
-.hff h6 {
+.hff-artisan h6 {
   font-size: 15px;
   font-weight: 600;
   letter-spacing: 1px;
 }
-.hfb {
+.hfb-artisan {
   padding: 12px 5px;
   text-align: center;
   background-color: rgb(245, 206, 196);
 }
-.hfb h6 {
+.hfb-artisan h6 {
   letter-spacing: 1px;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
 
-.bnav {
+.bnav-artisan {
   padding: 15px 40px;
 
   text-align: right;
@@ -327,71 +327,71 @@ textarea {
   justify-content: flex-end;
   align-items: center;
 }
-.bnav > div {
+.bnav-artisan > div {
   margin: 0px 10px;
 }
-#headnav {
+#headnav-artisan {
   padding: 0px 200px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
-#headina {
+#headina-artisan {
   display: flex;
 }
-#headina li {
+#headina-artisan li {
   padding: 0px 10px;
   list-style: none;
 }
-#headina li a {
+#headina-artisan li a {
   text-decoration: none;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.main {
+.main-artisan {
   display: flex;
 
   position: relative;
   padding: 25px 0px;
   width: 100%;
 }
-.main ul li {
+.main-artisan ul li {
   list-style: none;
   padding: 15px 10px;
 }
-.main ul li a {
+.main-artisan ul li a {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: #777171;
   font-family: "Montserrat";
 }
-.main ul li a span {
+.main-artisan ul li a span {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: #777171;
   font-family: "Montserrat";
 }
-.main img {
+.main-artisan img {
   padding: 0px 10px;
 }
-.egbe {
+.egbe-artisan {
   width: 17%;
 }
-.other {
+.other-artisan {
   width: 85%;
 
   padding: 10px 70px;
 }
-.abovegrey {
+.abovegrey-artisan {
   width: 100%;
   height: 25vh;
 
   margin-bottom: 50px;
 }
-.grey-area {
+.grey-area-artisan {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -401,7 +401,7 @@ textarea {
   margin: auto;
   height: 500px;
 }
-.grey-area2 {
+.grey-area2-artisan {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -411,7 +411,7 @@ textarea {
   margin: auto;
   height: 500px;
 }
-.grey-area12 {
+.grey-area12-artisan {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -422,7 +422,7 @@ textarea {
   height: 700px;
 }
 
-.grey-area1 {
+.grey-area1-artisan {
   background-color: #e8e8e8;
   display: flex;
   padding: 10px 10px;
@@ -434,7 +434,7 @@ textarea {
   height: 500px;
 }
 
-.blue-area {
+.blue-area-artisan {
   background-color: #03303e;
   display: flex;
   padding: 0px 60px;
@@ -443,7 +443,7 @@ textarea {
   margin: auto;
   height: fit-content;
 }
-.blue-area2 {
+.blue-area2-artisan {
   background-color: #03303e;
   display: flex;
   padding: 0px 60px;
@@ -453,7 +453,7 @@ textarea {
   height: fit-content;
 }
 
-.blue-area1 {
+.blue-area1-artisan {
   position: relative;
   background-color: #03303e;
   display: flex;
@@ -465,7 +465,7 @@ textarea {
   margin: auto;
   height: fit-content;
 }
-.popup1 {
+.popup1-artisan {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -478,12 +478,12 @@ textarea {
   border-radius: 20px;
   margin: 5% 35%;
 }
-.popup1 img {
+.popup1-artisan img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup1 h5 {
+.popup1-artisan h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -492,7 +492,7 @@ textarea {
   font-family: "Montserrat";
 }
 
-.popup1 button {
+.popup1-artisan button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -501,7 +501,7 @@ textarea {
   border-radius: 20px;
 }
 
-.popup {
+.popup-artisan {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -514,12 +514,12 @@ textarea {
   border-radius: 20px;
   margin: 15% 35%;
 }
-.popup img {
+.popup-artisan img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup h5 {
+.popup-artisan h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -527,14 +527,14 @@ textarea {
   font-size: 20px;
   font-family: "Montserrat";
 }
-.pp {
+.pp-artisan {
   width: 100%;
 }
-.ppc {
+.ppc-artisan {
   width: 75%;
   margin: 0px auto;
 }
-.popup button {
+.popup-artisan button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -542,7 +542,7 @@ textarea {
   color: white;
   border-radius: 20px;
 }
-.popup44 {
+.popup44-artisan {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -555,12 +555,12 @@ textarea {
   border-radius: 20px;
   margin: 15% 35%;
 }
-.popup44 img {
+.popup44-artisan img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup44 h5 {
+.popup44-artisan h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -568,7 +568,7 @@ textarea {
   font-size: 20px;
   font-family: "Montserrat";
 }
-.popupo44 {
+.popupo44-artisan {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -581,12 +581,12 @@ textarea {
   border-radius: 20px;
   margin: 0% 35%;
 }
-.popupo44 img {
+.popupo44-artisan img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popupo44 h5 {
+.popupo44-artisan h5 {
   color: white;
   margin: 10px;
   font-family: "Montserrat";
@@ -594,7 +594,7 @@ textarea {
   letter-spacing: 1px;
   font-size: 20px;
 }
-.popupo44 button {
+.popupo44-artisan button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -603,14 +603,14 @@ textarea {
   border-radius: 20px;
 }
 
-.pp {
+.pp-artisan {
   width: 100%;
 }
-.ppc {
+.ppc-artisan {
   width: 75%;
   margin: 0px auto;
 }
-.popup44 button {
+.popup44-artisan button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -619,57 +619,57 @@ textarea {
   border-radius: 20px;
 }
 
-.pfas {
+.pfas-artisan {
   width: 100%;
 }
-.visio {
+.visio-artisan {
   position: relative;
   filter: blur(1px);
   visibility: visible;
 }
-.visioclose {
+.visioclose-artisan {
   position: relative;
   filter: none;
   visibility: visible;
 }
-.wb {
+.wb-artisan {
 }
-.pfas h2 {
+.pfas-artisan h2 {
   color: indianred;
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.wb span {
+.wb-artisan span {
   color: indianred;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.wb h3 {
+.wb-artisan h3 {
   color: white;
   font-size: 25px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.job {
+.job-artisan {
   width: 50%;
 }
-.detail-table {
+.detail-table-artisan {
   width: 65%;
   padding: 10px 0px;
 }
-.complete {
+.complete-artisan {
   padding: 10px 0px;
   display: flex;
   justify-content: flex-end;
   width: 60%;
   align-items: center;
 }
-.complete > div {
+.complete-artisan > div {
   margin: 0px 10px;
 }
-.reject {
+.reject-artisan {
   padding: 10px 50px;
   color: white;
   background-color: indianred;
@@ -678,7 +678,7 @@ textarea {
   font-weight: 600;
   font-family: "Montserrat";
 }
-.paid {
+.paid-artisan {
   background-color: #60be68;
   color: white;
   border: none;
@@ -686,10 +686,10 @@ textarea {
   padding: 10px 40px;
   font-family: "Montserrat";
 }
-.breaker {
+.breaker-artisan {
   display: none;
 }
-#customers1 {
+#customers1-artisan {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -697,15 +697,15 @@ textarea {
   font-family: "Montserrat";
 }
 
-#customers1 td,
-#customers1 th {
+#customers1-artisan td,
+#customers1-artisan th {
   padding: 10px;
   font-weight: 500;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
 
-#customers1 th {
+#customers1-artisan th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
@@ -715,7 +715,7 @@ textarea {
   font-family: "Montserrat";
 }
 
-#customers {
+#customers-artisan {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -723,86 +723,86 @@ textarea {
   font-family: "Montserrat";
 }
 
-#customers td,
-#customers th {
+#customers-artisan td,
+#customers-artisan th {
   padding: 8px;
   font-weight: 600;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
 
-#customers th {
+#customers-artisan th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
   font-family: "Montserrat";
   color: white;
 }
-.fulltable {
+.fulltable-artisan {
   width: 90%;
 }
-.fulltable1 {
+.fulltable1-artisan {
   width: 95%;
   margin-top: 0px;
 }
-.fulltable2 {
+.fulltable2-artisan {
   width: 95%;
   padding: 0px 10px;
   margin-top: 70px;
 }
-.job h6 {
+.job-artisan h6 {
   margin-top: 50px;
   color: white;
   font-family: "Montserrat";
   font-weight: 600;
 }
-.grey-area p {
+.grey-area-artisan p {
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.grey-area2 p {
+.grey-area2-artisan p {
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.above-link ul {
+.above-link-artisan ul {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   font-size: 20px;
   padding: 0px 0px;
 }
-.above-link ul li {
+.above-link-artisan ul li {
   padding: 20px 40px;
   list-style: none;
   margin: 0px 20px;
 }
-.bluein1 {
+.bluein1-artisan {
   padding: 20px 0px;
   width: 90%;
 }
-.above-link ul li a {
+.above-link-artisan ul li a {
   font-size: 20px;
   color: #e26e4e;
   font-weight: 600;
   text-decoration: none;
   font-family: "Montserrat";
 }
-.dd {
+.dd-artisan {
   width: 35%;
   margin: 0px auto;
 }
-.user-details {
+.user-details-artisan {
   margin: 0px auto;
   width: 100%;
 }
-.user1-details {
+.user1-details-artisan {
   margin: 0px 0px;
   width: 60%;
   padding: 50px 0px;
 }
-.user1-details h5 {
+.user1-details-artisan h5 {
   color: #e26e4e;
   width: 30%;
   letter-spacing: 3px;
@@ -810,7 +810,7 @@ textarea {
   font-weight: 600;
   font-family: "Montserrat";
 }
-.input {
+.input-artisan {
   height: 60px;
   width: 100%;
   outline: none;
@@ -823,7 +823,7 @@ textarea {
   padding-left: 15px;
   font-weight: 600;
 }
-.input-box {
+.input-box-artisan {
   width: 100%;
   padding: 10px 0px;
 }
@@ -853,19 +853,19 @@ select {
   font-family: "Montserrat";
   font-weight: 600;
 }
-.user-details h5 {
+.user-details-artisan h5 {
   color: indianred;
   font-size: 25px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.summer {
+.summer-artisan {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summer button {
+.summer-artisan button {
   background-color: #e26e4e;
   color: white;
   border: none;
@@ -874,13 +874,13 @@ select {
   padding: 10px 50px;
   font-family: "Montserrat";
 }
-.summ {
+.summ-artisan {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summ button {
+.summ-artisan button {
   background-color: #e26e4e;
   color: white;
   border: none;
@@ -889,24 +889,24 @@ select {
   font-weight: 600;
   padding: 10px 30px;
 }
-.blue2 {
+.blue2-artisan {
   padding: 30px 50px;
 }
-.blue2 img {
+.blue2-artisan img {
   width: 100%;
   height: 500px;
   object-fit: contain;
 }
 
-.reg-form input:focus,
-.reg-form input:valid {
+.reg-form-artisan input:focus,
+.reg-form-artisan input:valid {
   border: 1px solid goldenrod;
 }
-.reg-form select:focus,
-.reg-form select:valid {
+.reg-form-artisan select:focus,
+.reg-form-artisan select:valid {
   border: 1px solid goldenrod;
 }
-.add {
+.add-artisan {
   border-radius: 20px;
   background-color: transparent;
   border: 3px solid #e26e4e;
@@ -916,7 +916,7 @@ select {
   font-size: 15px;
   font-family: "Montserrat";
 }
-.user1-details h6 {
+.user1-details-artisan h6 {
   color: white;
   font-size: 25px;
   font-weight: 500;
@@ -924,84 +924,84 @@ select {
   letter-spacing: 1px;
 }
 @media (max-width: 991px) {
-  .fulltable2 {
+  .fulltable2-artisan {
     width: 100%;
     padding: 0px 10px;
     margin-top: 70px;
   }
 
-  .another1 {
+  .another1-artisan {
     font-size: 14px;
     font-weight: 500;
     padding-top: 0px;
     color: grey;
   }
-  .anotherone {
+  .anotherone-artisan {
     font-size: 14px;
     padding-top: 25px;
     font-weight: 500;
     color: grey;
   }
-  #close1 {
+  #close1-artisan {
     display: none;
   }
-  #close2 {
+  #close2-artisan {
     display: none;
   }
-  .toping {
+  .toping-artisan {
     padding-top: 20px;
   }
-  .dinner {
+  .dinner-artisan {
     display: grid;
     margin-top: -20px;
   }
-  .another1 {
+  .another1-artisan {
     margin-top: 50px;
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .input-boxer {
+  .input-boxer-artisan {
     width: 50%;
     padding: 10px 0px;
   }
-  .nile {
+  .nile-artisan {
     color: indianred;
     font-size: 33px;
     font-weight: 600;
     margin: 0px;
   }
-  .naira span {
+  .naira-artisan span {
     font-weight: 600;
     font-size: 15px;
     letter-spacing: 1px;
   }
-  .nile-inner span {
+  .nile-inner-artisan span {
     letter-spacing: 0px;
     text-align: right;
     font-size: 10px;
     padding-left: 40px;
   }
-  .rowwer {
+  .rowwer-artisan {
     display: flex;
     padding: 0px 20px;
     justify-content: space-between;
     align-items: center;
   }
-  .row1 {
+  .row1-artisan {
     width: 35%;
   }
-  .hella-main {
+  .hella-main-artisan {
     padding: 10px 0px;
     justify-content: flex-end;
     display: flex;
     width: 100%;
     align-items: center;
   }
-  .hell {
+  .hell-artisan {
     width: 37%;
   }
-  .hella {
+  .hella-artisan {
     padding: 20px 70px;
     font-weight: 600;
     background-color: #60be68;
@@ -1009,7 +1009,7 @@ select {
     border: none;
   }
 
-  .input-boxer > input {
+  .input-boxer-artisan > input {
     height: 45px;
     width: 100%;
     outline: none;
@@ -1022,19 +1022,19 @@ select {
     padding-left: 15px;
     font-weight: 600;
   }
-  .gether {
+  .gether-artisan {
     display: flex;
     width: 100%;
     justify-content: space-between;
     align-items: flex-start;
   }
-  .bring {
+  .bring-artisan {
     background-color: white;
     padding: 10px 10px;
     width: 90%;
   }
 
-  .review {
+  .review-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1042,7 +1042,7 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .review1 {
+  .review1-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1062,20 +1062,20 @@ select {
     font-weight: 600;
   }
 
-  .thanos {
+  .thanos-artisan {
     width: 5%;
     text-align: right;
   }
-  .execute {
+  .execute-artisan {
     font-size: 14px;
     font-weight: 700;
   }
-  .another {
+  .another-artisan {
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .review {
+  .review-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1084,7 +1084,7 @@ select {
     font-weight: 600;
   }
 
-  .user1-details h6 {
+  .user1-details-artisan h6 {
     color: white;
     font-size: 25px;
     font-weight: 500;
@@ -1185,7 +1185,7 @@ select {
     color: indianred;
     text-align: right;
   }
-  .popup {
+  .popup-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1198,19 +1198,19 @@ select {
     border-radius: 20px;
     margin: 30% 30%;
   }
-  .popup img {
+  .popup-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-artisan h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .popupo44 {
+  .popupo44-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1223,19 +1223,19 @@ select {
     border-radius: 20px;
     margin: 20% 25%;
   }
-  .popupo44 img {
+  .popupo44-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popupo44 h5 {
+  .popupo44-artisan h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .popupo44 button {
+  .popupo44-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -1244,28 +1244,28 @@ select {
     border-radius: 20px;
   }
 
-  #mobile {
+  #mobile-artisan {
     display: none;
     align-items: center;
     font-size: 20px;
     padding-left: 20px;
   }
-  #mobile1 {
+  #mobile1-artisan {
     display: none;
     align-items: center;
   }
-  #close {
+  #close-artisan {
     display: none;
   }
 
-  .pp {
+  .pp-artisan {
     width: 100%;
   }
-  .ppc {
+  .ppc-artisan {
     width: 75%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -1274,20 +1274,20 @@ select {
     border-radius: 20px;
   }
 
-  .egbe {
+  .egbe-artisan {
     height: 50vh;
   }
-  .complete {
+  .complete-artisan {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-artisan > div {
     margin: 0px 10px;
   }
-  .reject {
+  .reject-artisan {
     padding: 10px 50px;
     color: white;
     background-color: indianred;
@@ -1295,7 +1295,7 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .paid {
+  .paid-artisan {
     background-color: #60be68;
     color: white;
     border: none;
@@ -1303,23 +1303,23 @@ select {
     padding: 10px 40px;
   }
 
-  .other {
+  .other-artisan {
     width: 100%;
 
     padding: 0px 10px;
   }
-  .dd {
+  .dd-artisan {
     width: 75%;
     margin: 0px auto;
   }
 
-  .fulltable {
+  .fulltable-artisan {
     width: 100%;
   }
-  .fulltable1 {
+  .fulltable1-artisan {
     width: 100%;
   }
-  .grey-area1 {
+  .grey-area1-artisan {
     background-color: #e8e8e8;
     display: flex;
     padding: 30px 20px;
@@ -1331,31 +1331,31 @@ select {
     height: fit-content;
   }
 
-  #customers1 {
+  #customers1-artisan {
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
     color: #777171;
   }
-  #customers1 td {
+  #customers1-artisan td {
     font-size: 14px;
   }
-  #customers1 td,
-  #customers1 th {
+  #customers1-artisan td,
+  #customers1-artisan th {
     padding: 5px;
     font-weight: 600;
   }
 
-  #customers1 th {
+  #customers1-artisan th {
     text-align: left;
     font-size: 14px;
     color: black;
   }
-  .user1-details {
+  .user1-details-artisan {
     margin: 0px 0px;
     width: 100%;
     padding: 50px 0px;
   }
-  .user1-details h5 {
+  .user1-details-artisan h5 {
     color: #e26e4e;
     width: 30%;
     letter-spacing: 3px;
@@ -1363,13 +1363,13 @@ select {
     font-weight: 600;
   }
 
-  .summ {
+  .summ-artisan {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .summ button {
+  .summ-artisan button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -1385,7 +1385,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-artisan {
     display: flex;
     background-image: url("../images/Group\ 41.png");
     background-repeat: no-repeat;
@@ -1393,36 +1393,36 @@ select {
     height: 121px;
     width: 100%;
   }
-  .header-first {
+  .header-first-artisan {
     width: 17%;
     color: white;
   }
-  .header-second {
+  .header-second-artisan {
     width: 83%;
   }
-  .hff {
+  .hff-artisan {
     padding: 8px 5px;
     background-color: rgb(226, 110, 78);
     text-align: center;
   }
-  .hff h6 {
+  .hff-artisan h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
     font-family: "Montserrat";
   }
-  .hfb {
+  .hfb-artisan {
     padding: 8px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-artisan h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 600;
     font-family: "Montserrat";
   }
-  .bnav {
+  .bnav-artisan {
     padding: 15px 40px;
 
     text-align: right;
@@ -1430,66 +1430,66 @@ select {
     justify-content: flex-end;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-artisan > div {
     margin: 0px 10px;
   }
-  #headnav {
+  #headnav-artisan {
     padding: 0px 100px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #headina {
+  #headina-artisan {
     display: flex;
   }
-  #headina li {
+  #headina-artisan li {
     padding: 0px 10px;
     list-style: none;
   }
-  #headina li a {
+  #headina-artisan li a {
     text-decoration: none;
     color: white;
     font-weight: 600;
   }
-  .deal {
+  .deal-artisan {
     color: indianred;
   }
-  .main {
+  .main-artisan {
     display: flex;
     padding: 15px 0px;
     width: 100%;
   }
-  .breaker {
+  .breaker-artisan {
     display: none;
   }
-  .main ul li {
+  .main-artisan ul li {
     list-style: none;
     padding: 15px 10px;
   }
-  .main ul li a {
+  .main-artisan ul li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: #777171;
   }
-  .main img {
+  .main-artisan img {
     padding: 0px 10px;
   }
-  .egbe {
+  .egbe-artisan {
     width: 15%;
   }
-  .other {
+  .other-artisan {
     width: 85%;
 
     padding: 10px 70px;
   }
-  .abovegrey {
+  .abovegrey-artisan {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 50px;
   }
-  .grey-area {
+  .grey-area-artisan {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1499,11 +1499,11 @@ select {
     margin: auto;
     height: 500px;
   }
-  .grey-area p {
+  .grey-area-artisan p {
     color: #777171;
     text-align: center;
   }
-  .grey-area2 {
+  .grey-area2-artisan {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1513,11 +1513,11 @@ select {
     margin: auto;
     height: 500px;
   }
-  .grey-area2 p {
+  .grey-area2-artisan p {
     color: #777171;
     text-align: center;
   }
-  .popup1 {
+  .popup1-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1530,12 +1530,12 @@ select {
     border-radius: 20px;
     margin: 25% 30%;
   }
-  .popup1 img {
+  .popup1-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup1 h5 {
+  .popup1-artisan h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
@@ -1544,7 +1544,7 @@ select {
     font-size: 20px;
   }
 
-  .popup1 button {
+  .popup1-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -1554,7 +1554,7 @@ select {
   }
 }
 @media (max-width: 450px) {
-  .grey-area12 {
+  .grey-area12-artisan {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1570,7 +1570,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-artisan {
     display: flex;
     background-image: none;
     background-repeat: no-repeat;
@@ -1581,34 +1581,34 @@ select {
     z-index: 999;
     position: fixed;
   }
-  .header-first {
+  .header-first-artisan {
     width: 25%;
     color: white;
   }
-  .header-second {
+  .header-second-artisan {
     width: 75%;
   }
-  .hff {
+  .hff-artisan {
     padding: 8px 5px;
     background-color: rgb(226, 110, 78);
     text-align: center;
   }
-  .hff h6 {
+  .hff-artisan h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
   }
-  .hfb {
+  .hfb-artisan {
     padding: 8px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-artisan h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 600;
   }
-  .bnav {
+  .bnav-artisan {
     padding: 15px 40px;
 
     text-align: right;
@@ -1616,16 +1616,16 @@ select {
     justify-content: center;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-artisan > div {
     margin: 0px 10px;
   }
-  #headnav {
+  #headnav-artisan {
     padding: 0px 0px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #headina {
+  #headina-artisan {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -1639,17 +1639,17 @@ select {
     box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
     padding: 80px 0 0 10px;
   }
-  #headina li {
+  #headina-artisan li {
     list-style: none;
     padding: 20px 10px;
   }
-  #headina li a {
+  #headina-artisan li a {
     text-decoration: none;
     color: white;
     padding: 40px 10px;
     font-weight: 600;
   }
-  #close1 {
+  #close1-artisan {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -1657,19 +1657,19 @@ select {
     display: flex;
     color: white;
   }
-  #headina.active {
+  #headina-artisan.active {
     right: 0px;
   }
-  .deal {
+  .deal-artisan {
     color: indianred;
   }
-  .main {
+  .main-artisan {
     display: flex;
     padding: 15px 0px;
     width: 100%;
     top: 130px;
   }
-  #sidebar {
+  #sidebar-artisan {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -1684,38 +1684,38 @@ select {
     padding: 80px 0 0 10px;
     z-index: 999;
   }
-  #sidebar li {
+  #sidebar-artisan li {
     list-style: none;
     padding: 15px 10px;
   }
-  #sidebar li a {
+  #sidebar-artisan li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: #777171;
   }
-  #sidebar.active {
+  #sidebar-artisan.active {
     left: 0px;
   }
-  .main img {
+  .main-artisan img {
     padding: 0px 10px;
   }
 
-  .egbe {
+  .egbe-artisan {
     width: 0%;
   }
-  .other {
+  .other-artisan {
     width: 100%;
 
     padding: 10px 20px;
   }
-  .abovegrey {
+  .abovegrey-artisan {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 50px;
   }
-  .grey-area {
+  .grey-area-artisan {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1726,12 +1726,12 @@ select {
     height: fit-content;
     padding: 20px 10px;
   }
-  .grey-area p {
+  .grey-area-artisan p {
     color: #777171;
     text-align: center;
     font-size: 15px;
   }
-  .grey-area2 {
+  .grey-area2-artisan {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1742,21 +1742,21 @@ select {
     height: fit-content;
     padding: 20px 10px;
   }
-  .grey-area2 p {
+  .grey-area2-artisan p {
     color: #777171;
     text-align: center;
     font-size: 15px;
   }
-  .above-link ul li a {
+  .above-link-artisan ul li a {
     color: indianred;
   }
-  .summer {
+  .summer-artisan {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
   }
-  .summer button {
+  .summer-artisan button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -1764,7 +1764,7 @@ select {
     font-weight: 600;
     padding: 10px 30px;
   }
-  .blue-area {
+  .blue-area-artisan {
     background-color: #03303e;
     display: flex;
     flex-direction: column;
@@ -1774,7 +1774,7 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .blue-area2 {
+  .blue-area2-artisan {
     background-color: #03303e;
     display: flex;
     flex-direction: column;
@@ -1784,15 +1784,15 @@ select {
     margin-top: 110%;
     height: fit-content;
   }
-  .blue2 {
+  .blue2-artisan {
     padding: 0px 50px;
   }
-  .blue2 img {
+  .blue2-artisan img {
     width: 100%;
     height: 200px;
     object-fit: contain;
   }
-  .blue-area1 {
+  .blue-area1-artisan {
     position: relative;
     background-color: #03303e;
     display: flex;
@@ -1805,19 +1805,19 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .complete {
+  .complete-artisan {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-artisan > div {
     margin: 0px 0px;
     display: flex;
     justify-content: space-between;
   }
-  .reject {
+  .reject-artisan {
     padding: 10px 30px;
     color: white;
     background-color: indianred;
@@ -1826,14 +1826,14 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .paid {
+  .paid-artisan {
     background-color: #60be68;
     color: white;
     border: none;
     font-weight: 600;
     padding: 22px 40px;
   }
-  .popup {
+  .popup-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1846,26 +1846,26 @@ select {
     border-radius: 20px;
     margin: 50% 15%;
   }
-  .popup img {
+  .popup-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-artisan h5 {
     color: white;
     text-align: center;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-artisan {
     width: 100%;
   }
-  .ppc {
+  .ppc-artisan {
     width: 100%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 50px;
@@ -1873,7 +1873,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .popup44 {
+  .popup44-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1886,26 +1886,26 @@ select {
     border-radius: 20px;
     margin: 150% 15%;
   }
-  .popup44 img {
+  .popup44-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup44 h5 {
+  .popup44-artisan h5 {
     color: white;
     text-align: center;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-artisan {
     width: 100%;
   }
-  .ppc {
+  .ppc-artisan {
     width: 100%;
     margin: 0px auto;
   }
-  .popup44 button {
+  .popup44-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 50px;
@@ -1913,7 +1913,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .grey-area1 {
+  .grey-area1-artisan {
     background-color: #e8e8e8;
     display: flex;
     padding: 10px 10px;
@@ -1925,7 +1925,7 @@ select {
     height: 500px;
   }
 
-  #customers1 {
+  #customers1-artisan {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -1933,14 +1933,14 @@ select {
     color: #777171;
   }
 
-  #customers1 td,
-  #customers1 th {
+  #customers1-artisan td,
+  #customers1-artisan th {
     padding: 10px;
 
     letter-spacing: 1px;
   }
 
-  #customers1 th {
+  #customers1-artisan th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
@@ -1950,60 +1950,60 @@ select {
     color: black;
   }
 
-  #customers {
+  #customers-artisan {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
     color: white;
   }
 
-  #customers td,
-  #customers th {
+  #customers-artisan td,
+  #customers-artisan th {
     padding: 8px;
     font-weight: 600;
   }
 
-  #customers th {
+  #customers-artisan th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
 
     color: white;
   }
-  .fulltable {
+  .fulltable-artisan {
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .fulltable1 {
+  .fulltable1-artisan {
     margin-top: 50px;
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .fulltable2 {
+  .fulltable2-artisan {
     margin-top: 50px;
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .thanos {
+  .thanos-artisan {
     width: 5%;
     text-align: right;
   }
-  .execute {
+  .execute-artisan {
     font-size: 14px;
     font-weight: 700;
   }
-  .another {
+  .another-artisan {
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .review {
+  .review-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2061,19 +2061,19 @@ select {
     color: indianred;
     text-align: right;
   }
-  .user1-details h6 {
+  .user1-details-artisan h6 {
     color: white;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 1px;
   }
-  .summ {
+  .summ-artisan {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
   }
-  .summ button {
+  .summ-artisan button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -2081,73 +2081,73 @@ select {
     font-weight: 600;
     padding: 10px 25px;
   }
-  .another1 {
+  .another1-artisan {
     font-size: 14px;
     font-weight: 500;
     padding-top: 0px;
     color: grey;
   }
-  .anotherone {
+  .anotherone-artisan {
     font-size: 14px;
     padding-top: 25px;
     font-weight: 500;
     color: grey;
   }
-  .toping {
+  .toping-artisan {
     padding-top: 20px;
   }
-  .dinner {
+  .dinner-artisan {
     display: grid;
     margin-top: -20px;
   }
-  .another1 {
+  .another1-artisan {
     margin-top: 50px;
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .input-boxer {
+  .input-boxer-artisan {
     width: 100%;
     padding: 10px 0px;
   }
-  .nile {
+  .nile-artisan {
     color: indianred;
     font-size: 33px;
     font-weight: 600;
     margin: 0px;
   }
-  .naira span {
+  .naira-artisan span {
     font-weight: 600;
     font-size: 15px;
     letter-spacing: 1px;
   }
-  .nile-inner span {
+  .nile-inner-artisan span {
     letter-spacing: 0px;
     text-align: right;
     font-size: 10px;
     padding-left: 40px;
   }
-  .rowwer {
+  .rowwer-artisan {
     display: flex;
     padding: 0px 20px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  .row1 {
+  .row1-artisan {
     width: 100%;
   }
-  .hella-main {
+  .hella-main-artisan {
     padding: 10px 0px;
     justify-content: center;
     display: flex;
     width: 100%;
     align-items: center;
   }
-  .hell {
+  .hell-artisan {
     width: 50%;
   }
-  .hella {
+  .hella-artisan {
     padding: 20px 70px;
     font-weight: 600;
     background-color: #60be68;
@@ -2155,7 +2155,7 @@ select {
     border: none;
   }
 
-  .input-boxer > input {
+  .input-boxer-artisan > input {
     height: 45px;
     width: 100%;
     outline: none;
@@ -2168,20 +2168,20 @@ select {
     padding-left: 15px;
     font-weight: 600;
   }
-  .gether {
+  .gether-artisan {
     display: flex;
     width: 100%;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
   }
-  .bring {
+  .bring-artisan {
     background-color: white;
     padding: 10px 10px;
     width: 90%;
   }
 
-  .review {
+  .review-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2189,7 +2189,7 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .review1 {
+  .review1-artisan {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2208,7 +2208,7 @@ select {
     color: #777171;
     font-weight: 600;
   }
-  #mobile {
+  #mobile-artisan {
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -2216,7 +2216,7 @@ select {
     color: white;
     padding-right: 60px;
   }
-  #mobile1 {
+  #mobile1-artisan {
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -2225,7 +2225,7 @@ select {
     padding-right: 60px;
     margin-bottom: 20px;
   }
-  #close1 {
+  #close1-artisan {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -2234,7 +2234,7 @@ select {
     color: white;
   }
 
-  #close2 {
+  #close2-artisan {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -2242,7 +2242,7 @@ select {
     display: flex;
     color: indianred;
   }
-  .popupo44 {
+  .popupo44-artisan {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -2255,19 +2255,19 @@ select {
     border-radius: 20px;
     margin: 40% 20%;
   }
-  .popupo44 img {
+  .popupo44-artisan img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popupo44 h5 {
+  .popupo44-artisan h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .popupo44 button {
+  .popupo44-artisan button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;

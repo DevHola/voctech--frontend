@@ -35,7 +35,7 @@
   border: none;
   border-radius: 0px;
 }
-.popup1 {
+.popup1-user {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -48,12 +48,12 @@
   border-radius: 20px;
   margin: 5% 35%;
 }
-.popup1 img {
+.popup1-user img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup1 h5 {
+.popup1-user h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -61,7 +61,7 @@
   font-size: 20px;
 }
 
-.popup1 button {
+.popup1-user button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -70,22 +70,22 @@
   border-radius: 20px;
 }
 
-#mobile {
+#mobile-user {
   display: none;
   align-items: center;
 }
-#mobile1 {
+#mobile1-user {
   display: none;
   align-items: center;
 }
-#close1 {
+#close1-user {
   display: none;
 }
-#close2 {
+#close2-user {
   display: none;
 }
 
-.header {
+.header-user {
   display: flex;
   background-image: url("../images/Group\ 41.png");
   background-repeat: no-repeat;
@@ -93,36 +93,36 @@
   height: 100px;
   width: 100%;
 }
-.header-first {
+.header-first-user {
   width: 17%;
   color: white;
 }
-.header-second {
+.header-second-user {
   width: 83%;
 }
-.hff {
+.hff-user {
   padding: 12px 50px;
   background-color: rgb(226, 110, 78);
   text-align: left;
 }
-.hff h6 {
+.hff-user h6 {
   font-size: 15px;
   font-weight: 600;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
-.hfb {
+.hfb-user {
   padding: 12px 5px;
   text-align: center;
   background-color: rgb(245, 206, 196);
 }
-.hfb h6 {
+.hfb-user h6 {
   letter-spacing: 1px;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.bnav {
+.bnav-user {
   padding: 15px 40px;
 
   text-align: right;
@@ -130,72 +130,72 @@
   justify-content: flex-end;
   align-items: center;
 }
-.bnav > div {
+.bnav-user > div {
   margin: 0px 10px;
   font-family: "Montserrat";
 }
-#headnav {
+#headnav-user {
   padding: 0px 200px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
-#headina {
+#headina-user {
   display: flex;
 }
-#headina li {
+#headina-user li {
   padding: 0px 10px;
   list-style: none;
 }
-#headina li a {
+#headina-user li a {
   text-decoration: none;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.main {
+.main-user {
   display: flex;
 
   position: relative;
   padding: 25px 0px;
   width: 100%;
 }
-.main ul li {
+.main-user ul li {
   list-style: none;
   padding: 15px 10px;
 }
-.main ul li a {
+.main-user ul li a {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: #777171;
   font-family: "Montserrat";
 }
-.main ul li a span {
+.main-user ul li a span {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: #777171;
   font-family: "Montserrat";
 }
-.main img {
+.main-user img {
   padding: 0px 10px;
 }
-.egbe {
+.egbe-user {
   width: 17%;
 }
-.other {
+.other-user {
   width: 85%;
 
   padding: 10px 70px;
 }
-.abovegrey {
+.abovegrey-user {
   width: 100%;
   height: 15vh;
 
   margin-bottom: 10px;
 }
-.grey-area {
+.grey-area-user {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -205,7 +205,7 @@
   margin: auto;
   height: 500px;
 }
-.grey-rea {
+.grey-rea-user {
   background-color: #e8e8e8;
   display: inline-block;
   justify-content: center;
@@ -216,7 +216,7 @@
   padding: 150px 150px;
   height: 500px;
 }
-.grey-rea p {
+.grey-rea-user p {
   font-weight: 600;
   text-align: center;
   font-size: 25px;
@@ -229,7 +229,7 @@
   font-size: 15px;
   left: 2%;
 }
-.grey-area1 {
+.grey-area1-user {
   background-color: #e8e8e8;
   display: flex;
   padding: 10px 10px;
@@ -241,7 +241,7 @@
   height: 500px;
 }
 
-.blue-area {
+.blue-area-user {
   background-color: #03303e;
   display: flex;
   padding: 0px 60px;
@@ -250,7 +250,7 @@
   margin: auto;
   height: fit-content;
 }
-.blue-area1 {
+.blue-area1-user {
   position: relative;
   background-color: #03303e;
   display: flex;
@@ -262,7 +262,7 @@
   margin: auto;
   height: fit-content;
 }
-.popup1 {
+.popup1-user {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -275,12 +275,12 @@
   border-radius: 20px;
   margin: 5% 35%;
 }
-.popup1 img {
+.popup1-user img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup1 h5 {
+.popup1-user h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -288,7 +288,7 @@
   font-size: 20px;
 }
 
-.popup1 button {
+.popup1-user button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -297,7 +297,7 @@
   border-radius: 20px;
 }
 
-.popup {
+.popup-user {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -310,26 +310,26 @@
   border-radius: 20px;
   margin: 15% 35%;
 }
-.popup img {
+.popup-user img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup h5 {
+.popup-user h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
   letter-spacing: 1px;
   font-size: 20px;
 }
-.pp {
+.pp-user {
   width: 100%;
 }
-.ppc {
+.ppc-user {
   width: 75%;
   margin: 0px auto;
 }
-.popup button {
+.popup-user button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -337,54 +337,54 @@
   color: white;
   border-radius: 20px;
 }
-.pfas {
+.pfas-user {
   width: 100%;
 }
-.visio {
+.visio-user {
   position: relative;
   filter: blur(1px);
   visibility: visible;
 }
-.visioclose {
+.visioclose-user {
   position: relative;
   filter: none;
   visibility: visible;
 }
-.wb {
+.wb-user {
 }
-.pfas h2 {
+.pfas-user h2 {
   color: indianred;
   font-weight: 600;
   font-size: 25px;
 }
-.wb span {
+.wb-user span {
   color: indianred;
   font-size: 15px;
   font-weight: 600;
 }
-.wb h3 {
+.wb-user h3 {
   color: white;
   font-size: 25px;
   font-weight: 600;
 }
-.job {
+.job-user {
   width: 50%;
 }
-.detail-table {
+.detail-table-user {
   width: 65%;
   padding: 10px 0px;
 }
-.complete {
+.complete-user {
   padding: 10px 0px;
   display: flex;
   justify-content: flex-end;
   width: 60%;
   align-items: center;
 }
-.complete > div {
+.complete-user > div {
   margin: 0px 10px;
 }
-.reject {
+.reject-user {
   padding: 10px 50px;
   color: white;
   background-color: indianred;
@@ -392,28 +392,28 @@
   text-decoration: none;
   font-weight: 600;
 }
-.paid {
+.paid-user {
   background-color: #60be68;
   color: white;
   border: none;
   font-weight: 600;
   padding: 10px 40px;
 }
-#customers1 {
+#customers1-user {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
   color: #777171;
 }
 
-#customers1 td,
-#customers1 th {
+#customers1-user td,
+#customers1-user th {
   padding: 10px;
   font-weight: 500;
   letter-spacing: 1px;
 }
 
-#customers1 th {
+#customers1-user th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
@@ -422,82 +422,82 @@
   color: black;
 }
 
-#customers {
+#customers-user {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 100%;
   color: white;
 }
 
-#customers td,
-#customers th {
+#customers-user td,
+#customers-user th {
   padding: 8px;
   font-weight: 600;
   letter-spacing: 1px;
 }
 
-#customers th {
+#customers-user th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
 
   color: white;
 }
-.fulltable {
+.fulltable-user {
   width: 90%;
 }
-.job h6 {
+.job-user h6 {
   margin-top: 50px;
   color: white;
   font-weight: 600;
 }
-.grey-area p {
+.grey-area-user p {
   font-weight: 600;
   font-size: 25px;
 }
-.above-link ul {
+.above-link-user ul {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   font-size: 20px;
   padding: 0px 0px;
 }
-.above-link ul li {
+.above-link-user ul li {
   padding: 20px 40px;
   list-style: none;
   margin: 0px 20px;
 }
-.bluein1 {
+.bluein1-user {
   padding: 20px 0px;
   width: 90%;
 }
-.above-link ul li a {
+.above-link-user ul li a {
   font-size: 20px;
   color: #e26e4e;
   font-weight: 600;
   text-decoration: none;
 }
-.dd {
+.dd-user {
   width: 35%;
   margin: 0px auto;
 }
-.user-details {
+.user-details-user {
   margin: 0px auto;
   width: 100%;
 }
-.user1-details {
+.user1-details-user {
   margin: 0px 0px;
   width: 60%;
   padding: 50px 0px;
 }
-.user1-details h5 {
+.user1-details-user h5 {
   color: #e26e4e;
   width: 30%;
   letter-spacing: 3px;
   font-size: 25px;
   font-weight: 600;
 }
-.input {
+.input-user {
   height: 60px;
   width: 100%;
   outline: none;
@@ -509,7 +509,7 @@
   padding-left: 15px;
   font-weight: 600;
 }
-.input-box {
+.input-box-user {
   width: 100%;
   padding: 10px 0px;
 }
@@ -537,18 +537,18 @@ select {
   border: none;
   font-weight: 600;
 }
-.user-details h5 {
+.user-details-user h5 {
   color: indianred;
   font-size: 25px;
   font-weight: 600;
 }
-.summer {
+.summer-user {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summer button {
+.summer-user button {
   background-color: #e26e4e;
   color: white;
   border: none;
@@ -556,13 +556,13 @@ select {
   font-weight: 600;
   padding: 10px 50px;
 }
-.summ {
+.summ-user {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summ button {
+.summ-user button {
   background-color: #e26e4e;
   color: white;
   border: none;
@@ -570,24 +570,24 @@ select {
   font-weight: 600;
   padding: 10px 30px;
 }
-.blue2 {
+.blue2-user {
   padding: 30px 50px;
 }
-.blue2 img {
+.blue2-user img {
   width: 100%;
   height: 500px;
   object-fit: contain;
 }
 
-.reg-form input:focus,
-.reg-form input:valid {
+.reg-form-user input:focus,
+.reg-form-user input:valid {
   border: 1px solid goldenrod;
 }
-.reg-form select:focus,
-.reg-form select:valid {
+.reg-form-user select:focus,
+.reg-form-user select:valid {
   border: 1px solid goldenrod;
 }
-.add {
+.add-user {
   border-radius: 20px;
   background-color: transparent;
   border: 3px solid #e26e4e;
@@ -597,7 +597,7 @@ select {
   font-size: 15px;
 }
 @media (max-width: 991px) {
-  .popup {
+  .popup-user {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -610,26 +610,26 @@ select {
     border-radius: 20px;
     margin: 30% 30%;
   }
-  .popup img {
+  .popup-user img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-user h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-user {
     width: 100%;
   }
-  .ppc {
+  .ppc-user {
     width: 75%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-user button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -638,20 +638,20 @@ select {
     border-radius: 20px;
   }
 
-  .egbe {
+  .egbe-user {
     height: 50vh;
   }
-  .complete {
+  .complete-user {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-user > div {
     margin: 0px 10px;
   }
-  .reject {
+  .reject-user {
     padding: 10px 50px;
     color: white;
     background-color: indianred;
@@ -659,7 +659,7 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .paid {
+  .paid-user {
     background-color: #60be68;
     color: white;
     border: none;
@@ -667,20 +667,20 @@ select {
     padding: 10px 40px;
   }
 
-  .other {
+  .other-user {
     width: 100%;
 
     padding: 0px 10px;
   }
-  .dd {
+  .dd-user {
     width: 75%;
     margin: 0px auto;
   }
 
-  .fulltable {
+  .fulltable-user {
     width: 100%;
   }
-  .grey-area1 {
+  .grey-area1-user {
     background-color: #e8e8e8;
     display: flex;
     padding: 30px 20px;
@@ -691,50 +691,50 @@ select {
     margin-top: -50px;
     height: fit-content;
   }
-  #mobile {
+  #mobile-user {
     display: none;
     align-items: center;
     font-size: 20px;
     padding-left: 20px;
   }
-  #mobile1 {
+  #mobile1-user {
     display: none;
     align-items: center;
   }
-  #close {
+  #close-user {
     display: none;
   }
-  #close1 {
+  #close1-user {
     display: none;
   }
-  #close2 {
+  #close2-user {
     display: none;
   }
-  #customers1 {
+  #customers1-user {
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
     color: #777171;
   }
-  #customers1 td {
+  #customers1-user td {
     font-size: 14px;
   }
-  #customers1 td,
-  #customers1 th {
+  #customers1-user td,
+  #customers1-user th {
     padding: 5px;
     font-weight: 600;
   }
 
-  #customers1 th {
+  #customers1-user th {
     text-align: left;
     font-size: 14px;
     color: black;
   }
-  .user1-details {
+  .user1-details-user {
     margin: 0px 0px;
     width: 100%;
     padding: 50px 0px;
   }
-  .user1-details h5 {
+  .user1-details-user h5 {
     color: #e26e4e;
     width: 30%;
     letter-spacing: 3px;
@@ -742,13 +742,13 @@ select {
     font-weight: 600;
   }
 
-  .summ {
+  .summ-user {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .summ button {
+  .summ-user button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -764,7 +764,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-user {
     display: flex;
     background-image: url("../images/Group\ 41.png");
     background-repeat: no-repeat;
@@ -772,34 +772,34 @@ select {
     height: 121px;
     width: 100%;
   }
-  .header-first {
+  .header-first-user {
     width: 17%;
     color: white;
   }
-  .header-second {
+  .header-second-user {
     width: 83%;
   }
-  .hff {
+  .hff-user {
     padding: 8px 5px;
     background-color: rgb(226, 110, 78);
     text-align: center;
   }
-  .hff h6 {
+  .hff-user h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
   }
-  .hfb {
+  .hfb-user {
     padding: 8px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-user h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 600;
   }
-  .bnav {
+  .bnav-user {
     padding: 15px 40px;
 
     text-align: right;
@@ -807,63 +807,63 @@ select {
     justify-content: flex-end;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-user > div {
     margin: 0px 10px;
   }
-  #headnav {
+  #headnav-user {
     padding: 0px 100px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #headina {
+  #headina-user {
     display: flex;
   }
-  #headina li {
+  #headina-user li {
     padding: 0px 10px;
     list-style: none;
   }
-  #headina li a {
+  #headina-user li a {
     text-decoration: none;
     color: white;
     font-weight: 600;
   }
-  .deal {
+  .deal-user {
     color: indianred;
   }
-  .main {
+  .main-user {
     display: flex;
     padding: 15px 0px;
     width: 100%;
   }
-  .main ul li {
+  .main-user ul li {
     list-style: none;
     padding: 15px 10px;
   }
-  .main ul li a {
+  .main-user ul li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: #777171;
   }
-  .main img {
+  .main-user img {
     padding: 0px 10px;
   }
-  .egbe {
+  .egbe-user {
     width: 15%;
   }
-  .other {
+  .other-user {
     width: 85%;
 
     padding: 10px 70px;
   }
-  .abovegrey {
+  .abovegrey-user {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 10px;
   }
-  .grey-area {
+  .grey-area-user {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -873,7 +873,7 @@ select {
     margin: auto;
     height: 500px;
   }
-  .grey-rea {
+  .grey-rea-user {
     background-color: #e8e8e8;
     display: inline-block;
     justify-content: center;
@@ -884,13 +884,13 @@ select {
     padding: 150px 150px;
     height: 500px;
   }
-  .grey-rea p {
+  .grey-rea-user p {
     font-weight: 600;
     text-align: center;
     font-size: 15px;
     color: silver;
   }
-  .counter {
+  .counter-user {
     display: flex;
     padding: 1rem;
     font-weight: 600;
@@ -898,11 +898,11 @@ select {
     left: 2%;
   }
 
-  .grey-area p {
+  .grey-area-user p {
     color: #777171;
     text-align: center;
   }
-  .popup1 {
+  .popup1-user {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -915,12 +915,12 @@ select {
     border-radius: 20px;
     margin: 25% 30%;
   }
-  .popup1 img {
+  .popup1-user img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup1 h5 {
+  .popup1-user h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
@@ -929,7 +929,7 @@ select {
     font-size: 20px;
   }
 
-  .popup1 button {
+  .popup1-user button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -945,7 +945,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-user {
     display: flex;
     background-image: none;
     background-repeat: no-repeat;
@@ -956,34 +956,34 @@ select {
     z-index: 999;
     position: fixed;
   }
-  .header-first {
+  .header-first-user {
     width: 25%;
     color: white;
   }
-  .header-second {
+  .header-second-user {
     width: 75%;
   }
-  .hff {
+  .hff-user {
     padding: 13px 5px;
     background-color: rgb(226, 110, 78);
     text-align: center;
   }
-  .hff h6 {
+  .hff-user h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
   }
-  .hfb {
+  .hfb-user {
     padding: 13px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-user h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 600;
   }
-  .bnav {
+  .bnav-user {
     padding: 15px 40px;
 
     text-align: right;
@@ -991,16 +991,16 @@ select {
     justify-content: center;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-user > div {
     margin: 0px 10px;
   }
-  #headnav {
+  #headnav-user {
     padding: 0px 0px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #headina {
+  #headina-user {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -1014,17 +1014,17 @@ select {
     box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
     padding: 80px 0 0 10px;
   }
-  #headina li {
+  #headina-user li {
     list-style: none;
     padding: 20px 10px;
   }
-  #headina li a {
+  #headina-user li a {
     text-decoration: none;
     color: white;
     padding: 40px 10px;
     font-weight: 600;
   }
-  #close1 {
+  #close1-user {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -1032,20 +1032,20 @@ select {
     display: flex;
     color: white;
   }
-  #headina.active {
+  #headina-user.active {
     right: 0px;
   }
 
-  .deal {
+  .deal-user {
     color: indianred;
   }
-  .main {
+  .main-user {
     display: flex;
     padding: 15px 0px;
     width: 100%;
     top: 130px;
   }
-  #sidebar {
+  #sidebar-user {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -1060,38 +1060,38 @@ select {
     padding: 80px 0 0 10px;
     z-index: 999;
   }
-  #sidebar li {
+  #sidebar-user li {
     list-style: none;
     padding: 15px 10px;
   }
-  #sidebar li a {
+  #sidebar-user li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: #777171;
   }
-  #sidebar.active {
+  #sidebar-user.active {
     left: 0px;
   }
-  .main img {
+  .main-user img {
     padding: 0px 10px;
   }
 
-  .egbe {
+  .egbe-user {
     width: 0%;
   }
-  .other {
+  .other-user {
     width: 100%;
 
     padding: 10px 20px;
   }
-  .abovegrey {
+  .abovegrey-user {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 10px;
   }
-  .grey-area {
+  .grey-area-user {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1102,21 +1102,21 @@ select {
     height: fit-content;
     padding: 20px 10px;
   }
-  .grey-area p {
+  .grey-area-user p {
     color: #777171;
     text-align: center;
     font-size: 15px;
   }
-  .above-link ul li a {
+  .above-link-user ul li a {
     color: indianred;
   }
-  .summer {
+  .summer-user {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .summer button {
+  .summer-user button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -1124,7 +1124,7 @@ select {
     font-weight: 600;
     padding: 10px 30px;
   }
-  .blue-area {
+  .blue-area-user {
     background-color: #03303e;
     display: flex;
     flex-direction: column;
@@ -1134,15 +1134,15 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .blue2 {
+  .blue2-user {
     padding: 0px 50px;
   }
-  .blue2 img {
+  .blue2-user img {
     width: 100%;
     height: 200px;
     object-fit: contain;
   }
-  .blue-area1 {
+  .blue-area1-user {
     position: relative;
     background-color: #03303e;
     display: flex;
@@ -1155,19 +1155,19 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .complete {
+  .complete-user {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-user > div {
     margin: 0px 0px;
     display: flex;
     justify-content: space-between;
   }
-  .reject {
+  .reject-user {
     padding: 10px 30px;
     color: white;
     background-color: indianred;
@@ -1176,14 +1176,14 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .paid {
+  .paid-user {
     background-color: #60be68;
     color: white;
     border: none;
     font-weight: 600;
     padding: 22px 40px;
   }
-  .popup {
+  .popup-user {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1196,26 +1196,26 @@ select {
     border-radius: 20px;
     margin: 50% 15%;
   }
-  .popup img {
+  .popup-user img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-user h5 {
     color: white;
     text-align: center;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-user {
     width: 100%;
   }
-  .ppc {
+  .ppc-user {
     width: 100%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-user button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 50px;
@@ -1223,7 +1223,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .grey-area1 {
+  .grey-area1-user {
     background-color: #e8e8e8;
     display: flex;
     padding: 10px 10px;
@@ -1235,7 +1235,7 @@ select {
     height: 500px;
   }
 
-  #customers1 {
+  #customers1-user {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -1243,14 +1243,14 @@ select {
     color: #777171;
   }
 
-  #customers1 td,
-  #customers1 th {
+  #customers1-user td,
+  #customers1-user th {
     padding: 10px;
 
     letter-spacing: 1px;
   }
 
-  #customers1 th {
+  #customers1-user th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
@@ -1260,33 +1260,33 @@ select {
     color: black;
   }
 
-  #customers {
+  #customers-user {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
     color: white;
   }
 
-  #customers td,
-  #customers th {
+  #customers-user td,
+  #customers-user th {
     padding: 8px;
     font-weight: 600;
   }
 
-  #customers th {
+  #customers-user th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
 
     color: white;
   }
-  .fulltable {
+  .fulltable-user {
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  #mobile {
+  #mobile-user {
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -1294,7 +1294,7 @@ select {
     color: white;
     padding-right: 60px;
   }
-  #mobile1 {
+  #mobile1-user {
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -1303,7 +1303,7 @@ select {
     padding-right: 60px;
     margin-bottom: 20px;
   }
-  #close1 {
+  #close1-user {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -1312,7 +1312,7 @@ select {
     color: white;
   }
 
-  #close2 {
+  #close2-user {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -1320,7 +1320,7 @@ select {
     display: flex;
     color: indianred;
   }
-  .popup1 {
+  .popup1-user {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1333,12 +1333,12 @@ select {
     border-radius: 20px;
     margin: 25% 25%;
   }
-  .popup1 img {
+  .popup1-user img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup1 h5 {
+  .popup1-user h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
@@ -1346,7 +1346,7 @@ select {
     font-size: 20px;
   }
 
-  .popup1 button {
+  .popup1-user button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -1354,7 +1354,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .grey-rea {
+  .grey-rea-user {
     background-color: #e8e8e8;
     display: inline-block;
     justify-content: center;
@@ -1365,7 +1365,7 @@ select {
     padding: 150px 20px;
     height: 500px;
   }
-  .grey-rea p {
+  .grey-rea-user p {
     font-weight: 600;
     text-align: center;
     font-size: 14px;

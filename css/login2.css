@@ -4,14 +4,14 @@
   font-family: Segoe UI;
   box-sizing: border-box;
 }
-.bg-holder {
+.bg-holder-lll {
   background-color: rgb(24, 60, 60);
   background-image: url("../images/Group\ 39.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 150vh;
 }
-.submit {
+.submit-lll {
   border-radius: 25px;
   padding: 16px 200px;
   background-color: transparent;
@@ -20,26 +20,26 @@
   font-weight: 600;
   font-size: 20px;
 }
-.header {
+.header-lll {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 30px 180px;
 }
-.tapper {
+.tapper-lll {
   padding: 10px 80px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.tap-hold {
+.tap-hold-lll {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   margin-top: 30px;
   padding: 5px 0px;
 }
-.tapper a {
+.tapper-lll a {
   text-decoration: none;
   color: white;
   font-weight: 600;
@@ -48,14 +48,14 @@
   border: 3px solid white;
   background-color: transparent;
 }
-#login {
+#login-lll {
   display: none;
 }
 
-#signup {
+#signup-lll {
   display: none;
 }
-.tap-hold h3 {
+.tap-hold-lll h3 {
   font-weight: 600;
   font-size: 30px;
   color: white;
@@ -71,7 +71,7 @@
   list-style: none;
   padding: 20px 20px;
 }
-.logo {
+.logo-lll {
   height: auto;
   width: auto;
   object-fit: cover;
@@ -88,17 +88,17 @@
 #navigation li a:hover {
   color: indianred;
 }
-.nav-button {
+.nav-button-lll {
   display: flex;
 
   align-items: center;
 }
-.nav-button {
+.nav-button-lll {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
-.nav-button li {
+.nav-button-lll li {
   list-style: none;
   padding: 8px 30px;
   border-radius: 80px;
@@ -113,23 +113,23 @@
   align-items: center;
 }
 
-.nav-button li a {
+.nav-button-lll li a {
   text-decoration: none;
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   line-height: 15px;
 }
-.nav-button li:nth-last-child(1) {
+.nav-button-lll li:nth-last-child(1) {
   background: #e26e4e;
   border-radius: 80px;
 }
-.nav-button li a:nth-last-child(1) {
+.nav-button-lll li a:nth-last-child(1) {
   text-decoration: none;
   color: white;
   font-size: 15px;
 }
-.tap {
+.tap-lll {
   background-image: url("../images/login2.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -137,7 +137,7 @@
   margin: auto;
   width: 75%;
 }
-.user-details {
+.user-details-lll {
   width: 600px;
   border-radius: 20px;
   margin: auto;
@@ -147,21 +147,21 @@
   padding: 30px 50px;
   height: 50vh;
 }
-.user-details > div {
+.user-details-lll > div {
   width: 600px;
 }
-.input-box {
+.input-box-lll {
   width: 500px;
 }
-.reg-form {
+.reg-form-lll {
   display: flex;
   flex-wrap: wrap;
 }
-.reg-form .input-box {
+.reg-form-lll .input-box {
   margin: 20px 0px 12px 0px;
   padding: 0px 20px;
 }
-.reg-form input {
+.reg-form-lll input {
   height: 50px;
   width: 100%;
   outline: none;
@@ -173,7 +173,7 @@
   padding-left: 35px;
   font-weight: 600;
 }
-.reg-form select {
+.reg-form-lll select {
   height: 50px;
   background-color: white;
   color: #777171;
@@ -183,24 +183,24 @@
   font-size: 16px;
   font-weight: 600;
 }
-.reg-form input:focus,
-.reg-form input:valid {
+.reg-form-lll input:focus,
+.reg-form-lll input:valid {
   border: 1px solid goldenrod;
 }
-.reg-form select:focus,
-.reg-form select:valid {
+.reg-form-lll select:focus,
+.reg-form-lll select:valid {
   border: 1px solid goldenrod;
 }
-.cana {
+.cana-lll {
   margin-bottom: 45px;
 }
 @media (max-width: 991px) {
-  .logo {
+  .logo-lll {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-lll {
     display: flex;
 
     justify-content: space-between;
@@ -228,7 +228,7 @@
     padding: 20px 35px;
     letter-spacing: 1px;
   }
-  #login {
+  #login-lll {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -242,7 +242,7 @@
     color: white;
   }
 
-  #signup {
+  #signup-lll {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -266,12 +266,12 @@
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-lll {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-lll {
     display: none;
     justify-content: space-evenly;
     align-items: center;
@@ -291,25 +291,25 @@
     padding-left: 20px;
   }
 
-  .nav-button li {
+  .nav-button-lll li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
     border: 1px solid #e26e4e;
     margin-right: 10px;
   }
-  .nav-button li a {
+  .nav-button-lll li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
     line-height: 15px;
   }
-  .nav-button li:nth-last-child(1) {
+  .nav-button-lll li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-lll li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;
@@ -317,24 +317,24 @@
   #navigation.active {
     right: 0px;
   }
-  .cancel {
+  .cancel-lll {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 10px;
   }
-  .hitter {
+  .hitter-lll {
     height: 65vh;
   }
-  .in {
+  .in-lll {
     color: white;
     background-color: indianred;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 10px;
   }
-  .tap {
+  .tap-lll {
     background-image: url("../images/login2.png");
     background-repeat: no-repeat;
     background-size: auto;
@@ -343,14 +343,14 @@
     padding: 0px 0px;
     width: 90%;
   }
-  .user-details > div {
+  .user-details-lll > div {
     width: 400px;
   }
-  .input-box {
+  .input-box-lll {
     width: 300px;
   }
 
-  .user-details {
+  .user-details-lll {
     border-radius: 20px;
     width: 600px;
     margin: auto;
@@ -361,15 +361,15 @@
     padding: 0px 60px;
     height: 50vh;
   }
-  .reg-form {
+  .reg-form-lll {
     display: flex;
     flex-wrap: wrap;
   }
-  .reg-form .input-box {
+  .reg-form-lll .input-box {
     margin: 20px 0px 12px 0px;
     padding: 0px 20px;
   }
-  .reg-form input {
+  .reg-form-lll input {
     height: 50px;
     width: 100%;
     outline: none;
@@ -380,7 +380,7 @@
     color: #777171;
     font-weight: 600;
   }
-  .reg-form select {
+  .reg-form-lll select {
     height: 50px;
     background-color: white;
     color: #777171;
@@ -390,35 +390,35 @@
     font-size: 16px;
     font-weight: 600;
   }
-  .reg-form input:focus,
-  .reg-form input:valid {
+  .reg-form-lll input:focus,
+  .reg-form-lll input:valid {
     border: 1px solid goldenrod;
   }
-  .reg-form select:focus,
-  .reg-form select:valid {
+  .reg-form-lll select:focus,
+  .reg-form-lll select:valid {
     border: 1px solid goldenrod;
   }
-  .bg-holder {
+  .bg-holder-lll {
     background-color: rgb(24, 60, 60);
     background-image: url("../images/Group\ 39.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 99vh;
   }
-  .tapper {
+  .tapper-lll {
     padding: 10px 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  .tap-hold {
+  .tap-hold-lll {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     margin-top: 30px;
     padding: 5px 0px;
   }
-  .tapper a {
+  .tapper-lll a {
     text-decoration: none;
     color: white;
     font-weight: 600;
@@ -427,7 +427,7 @@
     border: 3px solid white;
     background-color: transparent;
   }
-  .tapper a:hover {
+  .tapper-lll a:hover {
     text-decoration: none;
     color: white;
     font-weight: 600;
@@ -437,13 +437,13 @@
     background-color: black;
   }
 
-  .tap-hold h3 {
+  .tap-hold-lll h3 {
     font-weight: 600;
     font-size: 20px;
     color: white;
     letter-spacing: 1px;
   }
-  .submit {
+  .submit-lll {
     border-radius: 25px;
     padding: 15px 95px;
     background-color: goldenrod;
@@ -455,14 +455,14 @@
   }
 }
 @media (max-width: 450px) {
-  .tapper {
+  .tapper-lll {
     padding: 10px 80px;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
   }
-  .tap-hold {
+  .tap-hold-lll {
     display: flex;
     justify-content: flex-start;
     align-items: center;
@@ -470,7 +470,7 @@
     margin-bottom: 15px;
     padding: 5px 0px;
   }
-  .tapper a {
+  .tapper-lll a {
     text-decoration: none;
     color: white;
     font-weight: 600;
@@ -479,27 +479,27 @@
     border: 3px solid white;
     background-color: transparent;
   }
-  .tap-hold h3 {
+  .tap-hold-lll h3 {
     font-weight: 600;
     font-size: 20px;
     color: white;
     letter-spacing: 1px;
   }
-  .cancel {
+  .cancel-lll {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .in {
+  .in-lll {
     color: white;
     background-color: indianred;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .formholder h1 {
+  .formholder-lll h1 {
     font-family: Montserrat;
     font-style: normal;
     font-weight: 700;
@@ -509,15 +509,15 @@
     color: black;
     text-align: center;
   }
-  .hitter {
+  .hitter-lll {
     height: 55vh;
   }
-  .logo {
+  .logo-lll {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-lll {
     display: flex;
 
     justify-content: space-between;
@@ -540,7 +540,7 @@
     padding: 80px 0 0 10px;
     transition: 0.3s;
   }
-  #login {
+  #login-lll {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -554,7 +554,7 @@
     color: white;
   }
 
-  #signup {
+  #signup-lll {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -583,24 +583,24 @@
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-lll {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-lll {
     display: none;
     justify-content: space-evenly;
     align-items: center;
   }
-  .nav-button li {
+  .nav-button-lll li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
     border: 1px solid #e26e4e;
     margin-right: 10px;
   }
-  .nav-button li a {
+  .nav-button-lll li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
@@ -625,17 +625,17 @@
     padding-left: 20px;
   }
 
-  .nav-button li:nth-last-child(1) {
+  .nav-button-lll li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-lll li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;
   }
 
-  .user-details {
+  .user-details-lll {
     max-width: 350px;
     border-radius: 20px;
 
@@ -648,32 +648,32 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
-  .user-details > div {
+  .user-details-lll > div {
     width: 310px;
     margin-right: 40px;
   }
-  .input-box {
+  .input-box-lll {
     width: 300px;
   }
-  .cana {
+  .cana-lll {
     margin-bottom: -200px;
   }
-  .reg-form .input-box {
+  .reg-form-lll .input-box {
     flex: 50%;
     padding: 10px 0px;
     width: 350px;
     margin-bottom: 10px;
   }
-  .reg-form {
+  .reg-form-lll {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
   }
-  .reg-form .input-box {
+  .reg-form-lll .input-box {
     padding: 0px 20px;
     margin: 10px 2px;
   }
-  .reg-form input {
+  .reg-form-lll input {
     height: 60px;
     width: 100%;
     outline: none;
@@ -684,7 +684,7 @@
     color: #777171;
     font-weight: 600;
   }
-  .reg-form select {
+  .reg-form-lll select {
     height: 60px;
     background-color: white;
     color: #777171;
@@ -694,22 +694,22 @@
     font-size: 16px;
     font-weight: 600;
   }
-  .reg-form input:focus,
-  .reg-form input:valid {
+  .reg-form-lll input:focus,
+  .reg-form-lll input:valid {
     border: 1px solid goldenrod;
   }
-  .reg-form select:focus,
-  .reg-form select:valid {
+  .reg-form-lll select:focus,
+  .reg-form-lll select:valid {
     border: 1px solid goldenrod;
   }
-  .bg-holder {
+  .bg-holder-lll {
     background-color: rgb(24, 60, 60);
     background-image: url("../images/Group\ 39.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 140vh;
   }
-  .tap {
+  .tap-lll {
     background-image: url("../images/login2.png");
     background-repeat: no-repeat;
     background-size: cover;
@@ -718,7 +718,7 @@
     margin-left: 10px;
     padding: 40px 15px;
   }
-  .submit {
+  .submit-lll {
     border-radius: 15px;
     padding: 15px 120px;
     background-color: goldenrod;

@@ -4,14 +4,14 @@
   font-family: Segoe UI;
   box-sizing: border-box;
 }
-.bg-holder {
+.bg-holder-ll {
   background-color: #ffffff;
   background-image: url("../images/Group24.png");
   background-repeat: no-repeat;
   background-size: auto;
   height: 120vh;
 }
-.header {
+.header-ll {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -27,7 +27,7 @@
   list-style: none;
   padding: 20px 20px;
 }
-.logo {
+.logo-ll {
   height: auto;
   width: auto;
   object-fit: cover;
@@ -44,7 +44,7 @@
 #navigation li a:hover {
   color: indianred;
 }
-.nav-button {
+.nav-button-ll {
   display: flex;
 
   align-items: center;
@@ -57,19 +57,19 @@
   align-items: center;
 }
 
-.nav-button {
+.nav-button-ll {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
-.nav-button li {
+.nav-button-ll li {
   list-style: none;
   padding: 8px 30px;
   border-radius: 80px;
   border: 1px solid #e26e4e;
   margin-right: 10px;
 }
-.nav-button li a {
+.nav-button-ll li a {
   text-decoration: none;
   font-style: normal;
   font-weight: 700;
@@ -77,22 +77,22 @@
   line-height: 15px;
   font-family: "Inter";
 }
-.nav-button li:nth-last-child(1) {
+.nav-button-ll li:nth-last-child(1) {
   background: #e26e4e;
   border-radius: 80px;
 }
-.nav-button li a:nth-last-child(1) {
+.nav-button-ll li a:nth-last-child(1) {
   text-decoration: none;
   color: white;
   font-size: 15px;
 }
-.hitter {
+.hitter-ll {
   height: 80vh;
 }
-.formholder {
+.formholder-ll {
   max-width: 1200px;
 }
-.formholder h1 {
+.formholder-ll h1 {
   font-family: Montserrat;
   font-style: normal;
   font-weight: 700;
@@ -102,14 +102,14 @@
   color: black;
   text-align: center;
 }
-.register {
+.register-ll {
   padding: 8px 30px;
   border: 1px solid indianred;
   text-decoration: none;
   color: indianred;
   font-weight: 600;
 }
-.logic h3 {
+.logic-ll h3 {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
@@ -117,39 +117,39 @@
   letter-spacing: 1px;
   line-height: 17px;
 }
-.forget a {
+.forget-ll a {
   text-decoration: none;
   color: indianred;
   letter-spacing: 1px;
 }
-.cancel {
+.cancel-ll {
   color: indianred;
   background-color: transparent;
   border-radius: 80px;
   border: 1px solid indianred;
   padding: 10px 40px;
 }
-.in {
+.in-ll {
   color: white;
   background-color: indianred;
   border-radius: 80px;
   border: 1px solid indianred;
   padding: 10px 40px;
 }
-#login {
+#login-ll {
   display: none;
 }
 
-#signup {
+#signup-ll {
   display: none;
 }
 @media (max-width: 991px) {
-  .logo {
+  .logo-ll {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-ll {
     display: flex;
 
     justify-content: space-between;
@@ -177,7 +177,7 @@
     padding: 20px 35px;
     letter-spacing: 1px;
   }
-  #login {
+  #login-ll {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -191,7 +191,7 @@
     color: white;
   }
 
-  #signup {
+  #signup-ll {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -215,31 +215,31 @@
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-ll {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-ll {
     display: none;
     justify-content: space-evenly;
     align-items: center;
   }
-  .nav-button li {
+  .nav-button-ll li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
     border: 1px solid #e26e4e;
     margin-right: 10px;
   }
-  .nav-button li a {
+  .nav-button-ll li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
     line-height: 15px;
   }
-  .nav-button li:nth-last-child(1) {
+  .nav-button-ll li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
@@ -257,26 +257,26 @@
     font-size: 20px;
     padding-left: 20px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-ll li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;
   }
 
-  .cancel {
+  .cancel-ll {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 10px;
   }
-  .hitter {
+  .hitter-ll {
     height: 65vh;
   }
   #navigation.active {
     right: 0px;
   }
-  .in {
+  .in-ll {
     color: white;
     background-color: indianred;
     border-radius: 80px;
@@ -285,7 +285,7 @@
   }
 }
 @media (max-width: 450px) {
-  #login {
+  #login-ll {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -299,7 +299,7 @@
     color: white;
   }
 
-  #signup {
+  #signup-ll {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -312,21 +312,21 @@
     line-height: 15px;
     margin-bottom: 10px;
   }
-  .cancel {
+  .cancel-ll {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .in {
+  .in-ll {
     color: white;
     background-color: indianred;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .formholder h1 {
+  .formholder-ll h1 {
     font-family: Montserrat;
     font-style: normal;
     font-weight: 700;
@@ -336,15 +336,15 @@
     color: black;
     text-align: center;
   }
-  .hitter {
+  .hitter-ll {
     height: 55vh;
   }
-  .logo {
+  .logo-ll {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-ll {
     display: flex;
 
     justify-content: space-between;
@@ -383,35 +383,35 @@
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-ll {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-ll {
     display: none;
     justify-content: space-evenly;
     align-items: center;
   }
-  .nav-button li {
+  .nav-button-ll li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
     border: 1px solid #e26e4e;
     margin-right: 10px;
   }
-  .nav-button li a {
+  .nav-button-ll li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
     line-height: 15px;
   }
-  .nav-button li:nth-last-child(1) {
+  .nav-button-ll li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-ll li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;

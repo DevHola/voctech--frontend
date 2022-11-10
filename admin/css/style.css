@@ -4,29 +4,29 @@
   font-family: Segoe UI;
   box-sizing: border-box;
 }
-.sp1 {
+.sp1-admin {
   letter-spacing: 1px;
   font-size: 20px;
   font-family: "Montserrat";
 }
-.monaco {
+.monaco-admin {
   display: flex;
   justify-content: flex-end;
 }
-.monaco button {
+.monaco-admin button {
   background-color: indianred;
   color: white;
   border: none;
   padding: 7px 20px;
   font-family: "Montserrat";
 }
-.sixty {
+.sixty-admin {
   width: 60%;
 }
-.sixtyi {
+.sixtyi-admin {
   width: 25%;
 }
-.sixtyi select {
+.sixtyi-admin select {
   height: 50px;
   background-color: white;
   color: #777171;
@@ -37,13 +37,13 @@
   font-size: 20px;
   font-weight: 600;
 }
-.pagination1 form {
+.pagination1-admin form {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.pagination1 form button {
+.pagination1-admin form button {
   background-color: indianred;
   color: white;
   font-family: "Montserrat";
@@ -52,25 +52,25 @@
   border: none;
 }
 
-.pagination1 form.nosubmit {
+.pagination1-admin form.nosubmit {
   border: none;
   padding: 0;
 }
 
-.pagination1 input.nosubmit {
+.pagination1-admin input.nosubmit {
   width: 75%;
   border: none;
   display: block;
   padding: 9px 4px 9px 40px;
   background: white;
 }
-.pagination {
+.pagination-admin {
   display: flex;
   align-items: center;
   justify-content: flex-start;
   width: 100%;
 }
-.pagination1 {
+.pagination1-admin {
   display: flex;
   align-items: center;
   padding: 50px 0px;
@@ -78,49 +78,49 @@
   width: 100%;
 }
 
-.pagination h6 {
+.pagination-admin h6 {
   font-weight: 600;
   margin-top: -10px;
   font-size: 20px;
   font-family: "Montserrat";
 }
-#pghold {
+#pghold-admin {
   width: 63%;
 }
-#pghold1 {
+#pghold1-admin {
   width: 95%;
 }
-#pghold ul {
+#pghold-admin ul {
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
-#pghold ul li {
+#pghold-admin ul li {
   list-style: none;
 }
-#pghold ul li a {
+#pghold-admin ul li a {
   text-decoration: none;
   font-family: "Montserrat";
   color: black;
 }
-#pghold ul li a:hover {
+#pghold-admin ul li a:hover {
   text-decoration: none;
   color: red;
 }
-#pghold ul li a.active {
+#pghold-admin ul li a.active {
   color: red;
 }
-.search input {
+.search-admin input {
   height: 40px;
   font-family: "Montserrat";
 }
-.search form.nosubmit {
+.search-admin form.nosubmit {
   border: none;
   padding: 0;
   font-family: "Montserrat";
 }
 
-.search input.nosubmit {
+.search-admin input.nosubmit {
   width: 260px;
   border: none;
   display: block;
@@ -131,16 +131,16 @@
   font-family: "Montserrat";
 }
 
-.sp {
+.sp-admin {
   letter-spacing: 1px;
   font-size: 20px;
 }
-.abijan {
+.abijan-admin {
   border-bottom: 1px solid black;
   font-family: "Montserrat";
   font-weight: 600;
 }
-.merger {
+.merger-admin {
   background-color: indianred;
   font-weight: 600;
   font-size: 14px;
@@ -149,10 +149,10 @@
   border: none;
   font-family: "Montserrat";
 }
-.typer {
+.typer-admin {
   width: 40%;
 }
-.bt-holder {
+.bt-holder-admin {
   height: 400px;
   width: 100%;
   padding: 40px 0px;
@@ -161,7 +161,7 @@
   justify-content: center;
 }
 
-.bt-holder a {
+.bt-holder-admin a {
   color: white;
   text-decoration: none;
   padding: 30px 50px;
@@ -172,7 +172,7 @@
   font-size: 20px;
   border-radius: 8px;
 }
-.bt-holder a:hover {
+.bt-holder-admin a:hover {
   color: black;
   text-decoration: none;
   padding: 30px 50px;
@@ -191,92 +191,92 @@
   border-radius: 50%;
   border: 1px solid #cdcbd0;
 }
-.thanos {
+.thanos-admin {
   width: 5%;
   text-align: right;
 }
-.execute {
+.execute-admin {
   font-size: 14px;
   font-weight: 700;
   font-family: "Montserrat";
 }
-.another {
+.another-admin {
   font-size: 14px;
   font-weight: 500;
   font-family: "Montserrat";
   color: grey;
 }
-.another1 {
+.another1-admin {
   font-size: 14px;
   font-family: "Montserrat";
   font-weight: 500;
   padding-top: 0px;
   color: grey;
 }
-.anotherone {
+.anotherone-admin {
   font-size: 14px;
   padding-top: 25px;
   font-weight: 500;
   font-family: "Montserrat";
   color: grey;
 }
-.toping {
+.toping-admin {
   padding-top: 20px;
 }
-.dinner {
+.dinner-admin {
   display: grid;
   margin-top: -20px;
 }
-.another1 {
+.another1-admin {
   margin-top: 50px;
   font-family: "Montserrat";
   font-size: 14px;
   font-weight: 500;
   color: grey;
 }
-.input-boxer {
+.input-boxer-admin {
   width: 60%;
 
   padding: 10px 0px;
 }
-.nile {
+.nile-admin {
   color: indianred;
   font-size: 33px;
   font-weight: 600;
   margin: 0px;
   font-family: "Montserrat";
 }
-.naira span {
+.naira-admin span {
   font-weight: 600;
   font-size: 15px;
   font-family: "Montserrat";
   letter-spacing: 1px;
 }
-.nile-inner span {
+.nile-inner-admin span {
   letter-spacing: 0px;
   text-align: right;
   font-size: 10px;
   font-family: "Montserrat";
   padding-left: 40px;
 }
-.rowwer {
+.rowwer-admin {
   display: flex;
   align-items: center;
 }
-.row1 {
+.row1-admin {
   width: 35%;
 }
-.hella-main {
+.hella-main-admin {
   padding: 10px 0px;
   justify-content: flex-end;
   display: flex;
   width: 100%;
   align-items: center;
 }
-.hell {
+.hell-admin {
   width: 20%;
 }
-.hella {
+.hella-admin {
   padding: 20px 70px;
   font-weight: 600;
   background-color: #60be68;
@@ -285,7 +285,7 @@
   border: none;
 }
 
-.input-boxer > input {
+.input-boxer-admin > input {
   height: 45px;
   width: 100%;
   outline: none;
@@ -299,19 +299,19 @@
   padding-left: 15px;
   font-weight: 600;
 }
-.gether {
+.gether-admin {
   display: flex;
   width: 50%;
   justify-content: space-between;
   align-items: flex-start;
 }
-.bring {
+.bring-admin {
   background-color: white;
   padding: 10px 10px;
   width: 50%;
 }
 
-.review {
+.review-admin {
   text-decoration: none;
   color: white;
   background-color: rgb(226, 110, 78);
@@ -320,13 +320,13 @@
   font-family: "Montserrat";
   font-weight: 600;
 }
-.canto {
+.canto-admin {
   display: flex;
   align-items: center;
   justify-content: space-between;
   width: 80%;
 }
-.revieww {
+.revieww-admin {
   text-decoration: none;
   color: white;
   font-family: "Montserrat";
@@ -334,20 +334,20 @@
   font-size: 14px;
   font-weight: 600;
 }
-.green {
+.green-admin {
   background-color: rgb(96, 190, 104);
 }
-.red {
+.red-admin {
   background-color: rgb(226, 110, 78);
 }
-.revieww:hover {
+.revieww-admin:hover {
   text-decoration: none;
   color: grey;
   padding: 10px 20px;
   font-size: 14px;
   font-weight: 600;
 }
-.delete {
+.delete-admin {
   text-decoration: none;
   color: white;
   font-family: "Montserrat";
@@ -356,7 +356,7 @@
   font-size: 14px;
   font-weight: 600;
 }
-.pay {
+.pay-admin {
   text-decoration: none;
   color: white;
   background-color: rgb(96, 190, 104);
@@ -366,7 +366,7 @@
   font-weight: 600;
   border: none;
 }
-.Approve {
+.Approve-admin {
   text-decoration: none;
   color: white;
   font-family: "Montserrat";
@@ -376,7 +376,7 @@
   border: none;
   margin: 0px 10px;
 }
-.review1 {
+.review1-admin {
   text-decoration: none;
   color: white;
   font-family: "Montserrat";
@@ -398,16 +398,16 @@ textarea {
   font-weight: 600;
 }
 
-.bw {
+.bw-admin {
   padding-top: 50px;
 }
-.bw span {
+.bw-admin span {
   color: indianred;
   font-size: 15px;
   font-family: "Montserrat";
   font-weight: 600;
 }
-.bw h3 {
+.bw-admin h3 {
   color: white;
   font-size: 25px;
   font-weight: 600;
@@ -435,13 +435,13 @@ textarea {
   animation: fill ease-in-out 3s;
   transform: rotate(135deg);
 }
-.mell a {
+.mell-admin a {
   text-decoration: none;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.mell a:hover {
+.mell-admin a:hover {
   text-decoration: none;
   color: black;
   font-weight: 600;
@@ -454,7 +454,7 @@ textarea {
     transform: rotate(135deg);
   }
 }
-.fulltable1 {
+.fulltable1-admin {
   width: 100%;
   padding: 10px 5px;
   height: fit-content;
@@ -488,16 +488,16 @@ textarea {
   border-radius: 10px;
   margin-right: 5px;
 }
-.s1 {
+.s1-admin {
   background-color: rgb(93, 164, 216);
 }
-.s2 {
+.s2-admin {
   background-color: rgb(251, 164, 59);
 }
-.s3 {
+.s3-admin {
   background-color: rgb(96, 190, 104);
 }
-.s4 {
+.s4-admin {
   background-color: rgb(241, 124, 176);
 }
 
@@ -531,7 +531,7 @@ textarea {
   text-align: right;
   font-family: "Montserrat";
 }
-.header {
+.header-admin {
   display: flex;
   background-image: url("../images/Group\ 41.png");
   background-repeat: no-repeat;
@@ -539,24 +539,24 @@ textarea {
   height: 170px;
   width: 100%;
 }
-.header-first {
+.header-first-admin {
   width: 17%;
   color: white;
 }
-.header-second {
+.header-second-admin {
   width: 83%;
   align-items: center;
   display: flex;
   justify-content: space-between;
 }
-.hff {
+.hff-admin {
   padding: 50px 50px;
   background-color: white;
   color: black;
   text-align: left;
   height: 120px;
 }
-.hff h6 {
+.hff-admin h6 {
   font-size: 15px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -565,18 +565,18 @@ textarea {
   justify-content: center;
   font-family: "Montserrat";
 }
-.hfb {
+.hfb-admin {
   padding: 12px 5px;
   text-align: center;
   background-color: rgb(226, 110, 78);
 }
-.hfb h6 {
+.hfb-admin h6 {
   letter-spacing: 1px;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.bnav {
+.bnav-admin {
   padding: 15px 40px;
 
   text-align: right;
@@ -584,95 +584,95 @@ textarea {
   justify-content: flex-end;
   align-items: center;
 }
-.bnav > div {
+.bnav-admin > div {
   margin: 0px 10px;
 }
-.sunami {
+.sunami-admin {
   width: 50%;
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
-#mobile {
+#mobile-admin {
   display: none;
   align-items: center;
 }
-#mobile1 {
+#mobile1-admin {
   display: none;
   align-items: center;
 }
-#close1 {
+#close1-admin {
   display: none;
 }
-#close2 {
+#close2-admin {
   display: none;
 }
 
-.headnav {
+.headnav-admin {
   padding: 0px 0px;
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-#headina {
+#headina-admin {
   display: flex;
   width: 50%;
   justify-content: flex-end;
 }
 
-#headina li {
+#headina-admin li {
   padding: 0px 10px;
   list-style: none;
 }
-#headina li a {
+#headina-admin li a {
   text-decoration: none;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.main {
+.main-admin {
   display: flex;
 
   position: relative;
   padding: 25px 0px;
   width: 100%;
 }
-.main ul li {
+.main-admin ul li {
   list-style: none;
   padding: 15px 10px;
 }
-.main ul li a {
+.main-admin ul li a {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: #777171;
   font-family: "Montserrat";
 }
-.main ul li a:hover {
+.main-admin ul li a:hover {
   text-decoration: none;
   font-size: 16px;
   font-weight: 600;
   color: black;
 }
-.main img {
+.main-admin img {
   padding: 0px 10px;
 }
-.egbe {
+.egbe-admin {
   width: 17%;
 }
-.other {
+.other-admin {
   width: 85%;
   margin-top: -70px;
   padding: 0px 70px;
 }
-.abovegrey {
+.abovegrey-admin {
   width: 100%;
   height: 25vh;
 
   margin-bottom: 50px;
 }
-.grey-area {
+.grey-area-admin {
   background-color: #e8e8e8;
   display: flex;
   justify-content: flex-start;
@@ -683,7 +683,7 @@ textarea {
   margin: auto;
   height: fit-content;
 }
-.grey-area2 {
+.grey-area2-admin {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -694,7 +694,7 @@ textarea {
   height: fit-content;
   padding: 15px 20px;
 }
-.grey-area12 {
+.grey-area12-admin {
   background-color: #e8e8e8;
   display: flex;
   justify-content: center;
@@ -704,13 +704,13 @@ textarea {
   margin: auto;
   height: 700px;
 }
-.mell {
+.mell-admin {
   margin-right: 10px;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.grey-area1 {
+.grey-area1-admin {
   background-color: #e8e8e8;
   display: flex;
   padding: 10px 10px;
@@ -722,7 +722,7 @@ textarea {
   height: 500px;
 }
 
-.blue-area {
+.blue-area-admin {
   background-color: #03303e;
   display: flex;
   padding: 0px 60px;
@@ -731,7 +731,7 @@ textarea {
   margin: auto;
   height: fit-content;
 }
-.blue-area2 {
+.blue-area2-admin {
   background-color: #03303e;
   display: flex;
   padding: 0px 60px;
@@ -741,7 +741,7 @@ textarea {
   height: fit-content;
 }
 
-.blue-area1 {
+.blue-area1-admin {
   position: relative;
   background-color: #03303e;
   display: flex;
@@ -753,7 +753,7 @@ textarea {
   margin: auto;
   height: fit-content;
 }
-.popup1 {
+.popup1-admin {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -767,12 +767,12 @@ textarea {
   margin: 0% 30%;
   z-index: 999;
 }
-.popup1 img {
+.popup1-admin img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup1 h5 {
+.popup1-admin h5 {
   color: white;
   font-family: "Montserrat";
   margin: 10px;
@@ -781,7 +781,7 @@ textarea {
   font-size: 20px;
 }
 
-.popup1 button {
+.popup1-admin button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -790,7 +790,7 @@ textarea {
   border-radius: 20px;
 }
 
-.popup {
+.popup-admin {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -803,12 +803,12 @@ textarea {
   border-radius: 20px;
   margin: 15% 35%;
 }
-.popup img {
+.popup-admin img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup h5 {
+.popup-admin h5 {
   color: white;
   margin: 10px;
   font-weight: 600;
@@ -816,14 +816,14 @@ textarea {
   font-size: 20px;
   font-family: "Montserrat";
 }
-.pp {
+.pp-admin {
   width: 100%;
 }
-.ppc {
+.ppc-admin {
   width: 75%;
   margin: 0px auto;
 }
-.popup button {
+.popup-admin button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -832,7 +832,7 @@ textarea {
   color: white;
   border-radius: 20px;
 }
-.popup44 {
+.popup44-admin {
   position: absolute;
   display: flex;
   justify-content: center;
@@ -845,12 +845,12 @@ textarea {
   border-radius: 20px;
   margin: 15% 35%;
 }
-.popup44 img {
+.popup44-admin img {
   width: 100%;
   height: 120px;
   object-fit: contain;
 }
-.popup44 h5 {
+.popup44-admin h5 {
   color: white;
   font-family: "Montserrat";
   margin: 10px;
@@ -858,14 +858,14 @@ textarea {
   letter-spacing: 1px;
   font-size: 20px;
 }
-.pp {
+.pp-admin {
   width: 100%;
 }
-.ppc {
+.ppc-admin {
   width: 75%;
   margin: 0px auto;
 }
-.popup44 button {
+.popup44-admin button {
   background-color: transparent;
   border: 1px solid white;
   padding: 12px 60px;
@@ -874,57 +874,57 @@ textarea {
   border-radius: 20px;
 }
 
-.pfas {
+.pfas-admin {
   width: 100%;
 }
-.visio {
+.visio-admin {
   position: relative;
   filter: blur(1px);
   visibility: visible;
 }
-.visioclose {
+.visioclose-admin {
   position: relative;
   filter: none;
   visibility: visible;
 }
-.wb {
+.wb-admin {
 }
-.pfas h2 {
+.pfas-admin h2 {
   color: indianred;
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.wb span {
+.wb-admin span {
   color: indianred;
   font-size: 15px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.wb h3 {
+.wb-admin h3 {
   color: white;
   font-size: 25px;
   font-family: "Montserrat";
   font-weight: 600;
 }
-.job {
+.job-admin {
   width: 50%;
 }
-.detail-table {
+.detail-table-admin {
   width: 65%;
   padding: 10px 0px;
 }
-.complete {
+.complete-admin {
   padding: 10px 0px;
   display: flex;
   justify-content: flex-end;
   width: 60%;
   align-items: center;
 }
-.complete > div {
+.complete-admin > div {
   margin: 0px 10px;
 }
-.reject {
+.reject-admin {
   padding: 10px 50px;
   color: white;
   background-color: indianred;
@@ -932,32 +932,32 @@ textarea {
   text-decoration: none;
   font-weight: 600;
 }
-.paid {
+.paid-admin {
   background-color: #60be68;
   color: white;
   border: none;
   font-weight: 600;
   padding: 10px 40px;
 }
-.breaker {
+.breaker-admin {
   display: none;
 }
-#customers1 {
+#customers1-admin {
   font-family: "Montserrat";
   border-collapse: collapse;
   width: 100%;
   color: #777171;
 }
 
-#customers1 td,
-#customers1 th {
+#customers1-admin td,
+#customers1-admin th {
   padding: 10px;
   font-weight: 500;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
 
-#customers1 th {
+#customers1-admin th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
@@ -967,22 +967,22 @@ textarea {
   font-family: "Montserrat";
 }
 
-#customers {
+#customers-admin {
   font-family: "Montserrat";
   border-collapse: collapse;
   width: 100%;
   color: white;
 }
 
-#customers td,
-#customers th {
+#customers-admin td,
+#customers-admin th {
   padding: 8px;
   font-weight: 600;
   letter-spacing: 1px;
   font-family: "Montserrat";
 }
 
-#customers th {
+#customers-admin th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: left;
@@ -990,72 +990,72 @@ textarea {
 
   color: white;
 }
-.fulltable {
+.fulltable-admin {
   width: 90%;
 }
-.fulltable1 {
+.fulltable1-admin {
   width: 95%;
   margin-top: 10px;
   padding: 10px 0px;
 }
-.fulltable2 {
+.fulltable2-admin {
   width: 95%;
   padding: 0px 10px;
   margin-top: 70px;
 }
-.job h6 {
+.job-admin h6 {
   margin-top: 50px;
   color: white;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.grey-area p {
+.grey-area-admin p {
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.grey-area2 p {
+.grey-area2-admin p {
   font-weight: 600;
   font-size: 25px;
   font-family: "Montserrat";
 }
-.above-link ul {
+.above-link-admin ul {
   display: flex;
   justify-content: flex-start;
   align-items: center;
   font-size: 20px;
   padding: 0px 0px;
 }
-.above-link ul li {
+.above-link-admin ul li {
   padding: 20px 40px;
   list-style: none;
   margin: 0px 20px;
 }
-.bluein1 {
+.bluein1-admin {
   padding: 20px 0px;
   width: 90%;
 }
-.above-link ul li a {
+.above-link-admin ul li a {
   font-size: 20px;
   font-family: "Montserrat";
   color: #e26e4e;
   font-weight: 600;
   text-decoration: none;
 }
-.dd {
+.dd-admin {
   width: 35%;
   margin: 0px auto;
 }
-.user-details {
+.user-details-admin {
   margin: 0px auto;
   width: 100%;
 }
-.user1-details {
+.user1-details-admin {
   margin: 0px 0px;
   width: 60%;
   padding: 50px 0px;
 }
-.user1-details h5 {
+.user1-details-admin h5 {
   color: #e26e4e;
   width: 30%;
   letter-spacing: 3px;
@@ -1063,7 +1063,7 @@ textarea {
   font-size: 25px;
   font-weight: 600;
 }
-.input {
+.input-admin {
   height: 60px;
   width: 100%;
   outline: none;
@@ -1076,7 +1076,7 @@ textarea {
   padding-left: 15px;
   font-weight: 600;
 }
-.input-box {
+.input-box-admin {
   width: 100%;
   padding: 10px 0px;
 }
@@ -1106,19 +1106,19 @@ select {
   border: none;
   font-weight: 600;
 }
-.user-details h5 {
+.user-details-admin h5 {
   color: indianred;
   font-size: 25px;
   font-weight: 600;
   font-family: "Montserrat";
 }
-.summer {
+.summer-admin {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summer button {
+.summer-admin button {
   background-color: #e26e4e;
   color: white;
   font-family: "Montserrat";
@@ -1127,13 +1127,13 @@ select {
   font-weight: 600;
   padding: 10px 50px;
 }
-.summ {
+.summ-admin {
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: 100%;
 }
-.summ button {
+.summ-admin button {
   background-color: #e26e4e;
   color: white;
   font-family: "Montserrat";
@@ -1142,24 +1142,24 @@ select {
   font-weight: 600;
   padding: 10px 30px;
 }
-.blue2 {
+.blue2-admin {
   padding: 30px 50px;
 }
-.blue2 img {
+.blue2-admin img {
   width: 100%;
   height: 500px;
   object-fit: contain;
 }
 
-.reg-form input:focus,
-.reg-form input:valid {
+.reg-form-admin input:focus,
+.reg-form-admin input:valid {
   border: 1px solid goldenrod;
 }
-.reg-form select:focus,
-.reg-form select:valid {
+.reg-form-admin select:focus,
+.reg-form-admin select:valid {
   border: 1px solid goldenrod;
 }
-.add {
+.add-admin {
   border-radius: 20px;
   background-color: transparent;
   border: 3px solid #e26e4e;
@@ -1169,7 +1169,7 @@ select {
   font-size: 15px;
   font-family: "Montserrat";
 }
-.user1-details h6 {
+.user1-details-admin h6 {
   color: white;
   font-size: 25px;
   font-weight: 500;
@@ -1178,55 +1178,55 @@ select {
 }
 
 @media (max-width: 991px) {
-  .pagination {
+  .pagination-admin {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
     justify-content: flex-start;
     width: 100%;
   }
-  .pagination h6 {
+  .pagination-admin h6 {
     font-weight: 600;
     margin-top: 10px;
     font-size: 20px;
     text-align: center;
   }
-  #pghold {
+  #pghold-admin {
     width: 63%;
   }
-  #pghold ul {
+  #pghold-admin ul {
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #pghold ul li {
+  #pghold-admin ul li {
     list-style: none;
   }
-  #pghold ul li a {
+  #pghold-admin ul li a {
     text-decoration: none;
     color: black;
   }
-  #pghold ul li a:hover {
+  #pghold-admin ul li a:hover {
     text-decoration: none;
     color: red;
   }
-  #pghold ul li a.active {
+  #pghold-admin ul li a.active {
     color: red;
   }
-  .search {
+  .search-admin {
     display: flex;
     justify-content: center;
     align-items: center;
   }
-  #pghold {
+  #pghold-admin {
     width: 63%;
   }
-  .search form.nosubmit {
+  .search-admin form.nosubmit {
     border: none;
     padding: 0;
   }
 
-  .search input.nosubmit {
+  .search-admin input.nosubmit {
     width: 100%;
     border: none;
     display: block;
@@ -1236,19 +1236,19 @@ select {
       no-repeat 13px center;
   }
 
-  .sp {
+  .sp-admin {
     font-size: 16px;
   }
 
-  .sp1 {
+  .sp1-admin {
     font-size: 14px;
   }
-  .abijan {
+  .abijan-admin {
     border-bottom: 1px solid black;
 
     font-weight: 600;
   }
-  .merger {
+  .merger-admin {
     background-color: indianred;
     font-weight: 600;
     font-size: 14px;
@@ -1256,53 +1256,53 @@ select {
     color: white;
     border: none;
   }
-  .typer {
+  .typer-admin {
     width: 40%;
   }
-  .fulltable2 {
+  .fulltable2-admin {
     width: 100%;
     padding: 0px 10px;
     margin-top: 70px;
   }
 
-  .another1 {
+  .another1-admin {
     font-size: 14px;
     font-weight: 500;
     padding-top: 0px;
     color: grey;
   }
-  .anotherone {
+  .anotherone-admin {
     font-size: 14px;
     padding-top: 25px;
     font-weight: 500;
     color: grey;
   }
-  .toping {
+  .toping-admin {
     padding-top: 20px;
   }
-  .dinner {
+  .dinner-admin {
     display: grid;
     margin-top: -20px;
   }
-  .another1 {
+  .another1-admin {
     margin-top: 50px;
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .input-boxer {
+  .input-boxer-admin {
     width: 50%;
     padding: 10px 0px;
   }
-  .sixty {
+  .sixty-admin {
     width: 60%;
     margin: 0px 10px;
   }
-  .sixtyi {
+  .sixtyi-admin {
     width: 40%;
     margin: 0px 10px;
   }
-  .sixtyi select {
+  .sixtyi-admin select {
     height: 50px;
     background-color: white;
     color: #777171;
@@ -1312,13 +1312,13 @@ select {
     font-size: 15px;
     font-weight: 600;
   }
-  .pagination1 form {
+  .pagination1-admin form {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .pagination1 form button {
+  .pagination1-admin form button {
     background-color: indianred;
     color: white;
     padding: 12px 12px;
@@ -1327,55 +1327,55 @@ select {
     margin: 0px 5px;
   }
 
-  .pagination1 form.nosubmit {
+  .pagination1-admin form.nosubmit {
     border: none;
     padding: 0;
   }
 
-  .pagination1 input.nosubmit {
+  .pagination1-admin input.nosubmit {
     width: 85%;
     border: none;
     display: block;
     padding: 9px 4px 9px 40px;
     background: white;
   }
-  .nile {
+  .nile-admin {
     color: indianred;
     font-size: 33px;
     font-weight: 600;
     margin: 0px;
   }
-  .naira span {
+  .naira-admin span {
     font-weight: 600;
     font-size: 15px;
     letter-spacing: 1px;
   }
-  .nile-inner span {
+  .nile-inner-admin span {
     letter-spacing: 0px;
     text-align: right;
     font-size: 10px;
     padding-left: 40px;
   }
-  .rowwer {
+  .rowwer-admin {
     display: flex;
     padding: 0px 20px;
     justify-content: space-between;
     align-items: center;
   }
-  .row1 {
+  .row1-admin {
     width: 35%;
   }
-  .hella-main {
+  .hella-main-admin {
     padding: 10px 0px;
     justify-content: flex-end;
     display: flex;
     width: 100%;
     align-items: center;
   }
-  .hell {
+  .hell-admin {
     width: 37%;
   }
-  .hella {
+  .hella-admin {
     padding: 20px 70px;
     font-weight: 600;
     background-color: #60be68;
@@ -1383,7 +1383,7 @@ select {
     border: none;
   }
 
-  .input-boxer > input {
+  .input-boxer-admin > input {
     height: 45px;
     width: 100%;
     outline: none;
@@ -1397,13 +1397,13 @@ select {
     font-weight: 600;
   }
 
-  .canto {
+  .canto-admin {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
   }
-  .revieww {
+  .revieww-admin {
     text-decoration: none;
     color: white;
 
@@ -1412,7 +1412,7 @@ select {
     font-weight: 600;
     margin-right: 10px;
   }
-  .delete {
+  .delete-admin {
     text-decoration: none;
     color: white;
     background-color: red;
@@ -1420,19 +1420,19 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .gether {
+  .gether-admin {
     display: flex;
     width: 100%;
     justify-content: space-between;
     align-items: flex-start;
   }
-  .bring {
+  .bring-admin {
     background-color: white;
     padding: 10px 10px;
     width: 90%;
   }
 
-  .review {
+  .review-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1440,7 +1440,7 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .review1 {
+  .review1-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1459,20 +1459,20 @@ select {
     color: #777171;
     font-weight: 600;
   }
-  .pagination1 {
+  .pagination1-admin {
     display: flex;
     align-items: center;
     padding: 50px 0px;
     justify-content: flex-start;
     width: 100%;
   }
-  .pagination1 form {
+  .pagination1-admin form {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .pagination1 form button {
+  .pagination1-admin form button {
     background-color: indianred;
     color: white;
     padding: 6px 15px;
@@ -1480,36 +1480,36 @@ select {
     border: none;
   }
 
-  .pagination1 form.nosubmit {
+  .pagination1-admin form.nosubmit {
     border: none;
     padding: 0;
   }
 
-  .pagination1 input.nosubmit {
+  .pagination1-admin input.nosubmit {
     width: 100%;
     border: none;
     display: block;
     padding: 9px 4px 9px 10px;
     background: white;
   }
-  #pghold1 {
+  #pghold1-admin {
     width: 90%;
   }
 
-  .thanos {
+  .thanos-admin {
     width: 5%;
     text-align: right;
   }
-  .execute {
+  .execute-admin {
     font-size: 14px;
     font-weight: 700;
   }
-  .another {
+  .another-admin {
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .review {
+  .review-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -1518,7 +1518,7 @@ select {
     font-weight: 600;
   }
 
-  .user1-details h6 {
+  .user1-details-admin h6 {
     color: white;
     font-size: 25px;
     font-weight: 500;
@@ -1544,7 +1544,7 @@ select {
     font-weight: 600;
     color: white;
   }
-  .Approve {
+  .Approve-admin {
     text-decoration: none;
     color: white;
 
@@ -1636,7 +1636,7 @@ select {
     color: indianred;
     text-align: right;
   }
-  .popup {
+  .popup-admin {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -1649,26 +1649,26 @@ select {
     border-radius: 20px;
     margin: 30% 30%;
   }
-  .popup img {
+  .popup-admin img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-admin h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-admin {
     width: 100%;
   }
-  .ppc {
+  .ppc-admin {
     width: 75%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-admin button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -1677,20 +1677,20 @@ select {
     border-radius: 20px;
   }
 
-  .egbe {
+  .egbe-admin {
     height: 50vh;
   }
-  .complete {
+  .complete-admin {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-admin > div {
     margin: 0px 10px;
   }
-  .reject {
+  .reject-admin {
     padding: 10px 50px;
     color: white;
     background-color: indianred;
@@ -1698,13 +1698,13 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .green {
+  .green-admin {
     background-color: rgb(96, 190, 104);
   }
-  .red {
+  .red-admin {
     background-color: rgb(226, 110, 78);
   }
-  .paid {
+  .paid-admin {
     background-color: #60be68;
     color: white;
     border: none;
@@ -1712,27 +1712,27 @@ select {
     padding: 10px 40px;
   }
 
-  .other {
+  .other-admin {
     width: 100%;
     margin-top: 70px;
     padding: 0px 10px;
   }
-  .dd {
+  .dd-admin {
     width: 75%;
     margin: 0px auto;
   }
 
-  .fulltable {
+  .fulltable-admin {
     width: 100%;
   }
-  .fulltable1 {
+  .fulltable1-admin {
     width: 100%;
     margin-top: 0px;
 
     padding: 10px 5px;
     height: fit-content;
   }
-  .grey-area1 {
+  .grey-area1-admin {
     background-color: #e8e8e8;
     display: flex;
     padding: 30px 20px;
@@ -1744,31 +1744,31 @@ select {
     height: fit-content;
   }
 
-  #customers1 {
+  #customers1-admin {
     font-family: Arial, Helvetica, sans-serif;
     width: 100%;
     color: #777171;
   }
-  #customers1 td {
+  #customers1-admin td {
     font-size: 14px;
   }
-  #customers1 td,
-  #customers1 th {
+  #customers1-admin td,
+  #customers1-admin th {
     padding: 5px;
     font-weight: 600;
   }
 
-  #customers1 th {
+  #customers1-admin th {
     text-align: left;
     font-size: 14px;
     color: black;
   }
-  .user1-details {
+  .user1-details-admin {
     margin: 0px 0px;
     width: 100%;
     padding: 50px 0px;
   }
-  .user1-details h5 {
+  .user1-details-admin h5 {
     color: #e26e4e;
     width: 30%;
     letter-spacing: 3px;
@@ -1776,13 +1776,13 @@ select {
     font-weight: 600;
   }
 
-  .summ {
+  .summ-admin {
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
   }
-  .summ button {
+  .summ-admin button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -1798,7 +1798,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-admin {
     display: flex;
     background-image: url("../images/Group\ 41.png");
     background-repeat: no-repeat;
@@ -1807,17 +1807,17 @@ select {
     width: 100%;
   }
 
-  .header-first {
+  .header-first-admin {
     width: 17%;
     color: white;
   }
-  .header-second {
+  .header-second-admin {
     width: 83%;
     align-items: center;
     display: flex;
     justify-content: space-between;
   }
-  .hff {
+  .hff-admin {
     padding: 8px 5px;
     background-color: white;
     color: black;
@@ -1825,24 +1825,24 @@ select {
     height: 80px;
   }
 
-  .hff h6 {
+  .hff-admin h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 1px;
     text-align: left;
     padding: 20px 20px;
   }
-  .hfb {
+  .hfb-admin {
     padding: 8px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-admin h6 {
     letter-spacing: 1px;
     font-size: 15px;
     font-weight: 600;
   }
-  .bnav {
+  .bnav-admin {
     padding: 15px 40px;
 
     text-align: right;
@@ -1850,58 +1850,58 @@ select {
     justify-content: flex-end;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-admin > div {
     margin: 0px 10px;
   }
-  .sunami {
+  .sunami-admin {
     width: 40%;
     display: flex;
     align-items: center;
     justify-content: flex-end;
   }
-  .headnav {
+  .headnav-admin {
     padding: 0px 0px;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  #headina {
+  #headina-admin {
     display: flex;
     width: 60%;
     justify-content: center;
     align-items: center;
   }
-  #headina li {
+  #headina-admin li {
     padding: 0px 10px;
     list-style: none;
   }
-  #headina li a {
+  #headina-admin li a {
     text-decoration: none;
     color: white;
     font-weight: 600;
     font-size: 15px;
   }
-  #mobile {
+  #mobile-admin {
     display: none;
     align-items: center;
     font-size: 20px;
     padding-left: 20px;
   }
-  #mobile1 {
+  #mobile1-admin {
     display: none;
     align-items: center;
   }
-  #close {
+  #close-admin {
     display: none;
   }
-  #close1 {
+  #close1-admin {
     display: none;
   }
-  #close2 {
+  #close2-admin {
     display: none;
   }
-  .bt-holder {
+  .bt-holder-admin {
     height: 400px;
     width: 100%;
     padding: 40px 0px;
@@ -1910,7 +1910,7 @@ select {
     justify-content: center;
   }
 
-  .bt-holder a {
+  .bt-holder-admin a {
     color: white;
     text-decoration: none;
     padding: 20px 10px;
@@ -1922,23 +1922,23 @@ select {
     border-radius: 8px;
   }
 
-  .deal {
+  .deal-admin {
     color: indianred;
   }
-  .main {
+  .main-admin {
     display: flex;
     padding: 0px 0px;
     position: relative;
     width: 100%;
   }
-  .breaker {
+  .breaker-admin {
     display: none;
   }
-  .main ul li {
+  .main-admin ul li {
     list-style: none;
     padding: 15px 10px;
   }
-  .main ul li a {
+  .main-admin ul li a {
     text-decoration: none;
     font-size: 14px;
     font-weight: 600;
@@ -1946,24 +1946,24 @@ select {
     justify-content: space-between;
     color: #777171;
   }
-  .main img {
+  .main-admin img {
     padding: 0px 10px;
   }
-  .egbe {
+  .egbe-admin {
     width: 15%;
   }
-  .other {
+  .other-admin {
     width: 85%;
 
     padding: 10px 70px;
   }
-  .abovegrey {
+  .abovegrey-admin {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 50px;
   }
-  .grey-area {
+  .grey-area-admin {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1973,11 +1973,11 @@ select {
     margin: auto;
     height: 500px;
   }
-  .grey-area p {
+  .grey-area-admin p {
     color: #777171;
     text-align: center;
   }
-  .grey-area2 {
+  .grey-area2-admin {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -1987,11 +1987,11 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .grey-area2 p {
+  .grey-area2-admin p {
     color: #777171;
     text-align: center;
   }
-  .popup1 {
+  .popup1-admin {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -2004,12 +2004,12 @@ select {
     border-radius: 20px;
     margin: 25% 30%;
   }
-  .popup1 img {
+  .popup1-admin img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup1 h5 {
+  .popup1-admin h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
@@ -2017,7 +2017,7 @@ select {
     text-align: center;
     font-size: 20px;
   }
-  .pay {
+  .pay-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(96, 190, 104);
@@ -2027,7 +2027,7 @@ select {
     font-weight: 600;
   }
 
-  .popup1 button {
+  .popup1-admin button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -2037,13 +2037,13 @@ select {
   }
 }
 @media (max-width: 450px) {
-  .green {
+  .green-admin {
     background-color: rgb(96, 190, 104);
   }
-  .red {
+  .red-admin {
     background-color: rgb(226, 110, 78);
   }
-  .grey-area12 {
+  .grey-area12-admin {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -2059,7 +2059,7 @@ select {
     font-family: Segoe UI;
     box-sizing: border-box;
   }
-  .header {
+  .header-admin {
     display: flex;
     background-image: none;
     background-repeat: no-repeat;
@@ -2070,35 +2070,35 @@ select {
     z-index: 999;
     position: fixed;
   }
-  .header-first {
+  .header-first-admin {
     width: 25%;
     color: white;
   }
-  .header-second {
+  .header-second-admin {
     width: 75%;
   }
-  .hff {
+  .hff-admin {
     padding: 2px 5px;
     background-color: white;
     text-align: center;
   }
-  .hff h6 {
+  .hff-admin h6 {
     font-size: 12px;
     font-weight: 600;
     letter-spacing: 1px;
     color: black;
   }
-  .hfb {
+  .hfb-admin {
     padding: 12px 5px;
     text-align: center;
     background-color: rgb(245, 206, 196);
   }
-  .hfb h6 {
+  .hfb-admin h6 {
     letter-spacing: 1px;
     font-size: 12px;
     font-weight: 600;
   }
-  .bnav {
+  .bnav-admin {
     padding: 15px 40px;
 
     text-align: right;
@@ -2106,16 +2106,16 @@ select {
     justify-content: center;
     align-items: center;
   }
-  .bnav > div {
+  .bnav-admin > div {
     margin: 0px 10px;
   }
-  .headnav {
+  .headnav-admin {
     padding: 0px 0px;
     display: flex;
     justify-content: flex-start;
     align-items: center;
   }
-  #headina {
+  #headina-admin {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -2129,30 +2129,30 @@ select {
     box-shadow: 0 40px 60px rgba(0, 0, 0, 0.1);
     padding: 80px 0 0 10px;
   }
-  #headina li {
+  #headina-admin li {
     padding: 20px 10px;
     list-style: none;
   }
-  #headina li a {
+  #headina-admin li a {
     text-decoration: none;
     color: white;
     font-weight: 600;
   }
 
-  #headina.active {
+  #headina-admin.active {
     right: 0px;
   }
 
-  .deal {
+  .deal-admin {
     color: indianred;
   }
-  .main {
+  .main-admin {
     display: flex;
     padding: 15px 0px;
     width: 100%;
     top: 130px;
   }
-  #sidebar {
+  #sidebar-admin {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -2167,38 +2167,38 @@ select {
     padding: 80px 0 0 10px;
     z-index: 999;
   }
-  #sidebar li {
+  #sidebar-admin li {
     list-style: none;
     padding: 15px 10px;
   }
-  #sidebar li a {
+  #sidebar-admin li a {
     text-decoration: none;
     font-size: 16px;
     font-weight: 600;
     color: #777171;
   }
-  #sidebar.active {
+  #sidebar-admin.active {
     left: 0px;
   }
-  .main img {
+  .main-admin img {
     padding: 0px 10px;
   }
 
-  .egbe {
+  .egbe-admin {
     width: 0%;
   }
-  .other {
+  .other-admin {
     width: 100%;
 
     padding: 10px 20px;
   }
-  .abovegrey {
+  .abovegrey-admin {
     width: 100%;
     height: 15vh;
 
     margin-bottom: 50px;
   }
-  .grey-area {
+  .grey-area-admin {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -2209,12 +2209,12 @@ select {
     height: fit-content;
     padding: 20px 10px;
   }
-  .grey-area p {
+  .grey-area-admin p {
     color: #777171;
     text-align: center;
     font-size: 15px;
   }
-  .grey-area2 {
+  .grey-area2-admin {
     background-color: #e8e8e8;
     display: flex;
     justify-content: center;
@@ -2225,21 +2225,21 @@ select {
     height: fit-content;
     padding: 20px 10px;
   }
-  .grey-area2 p {
+  .grey-area2-admin p {
     color: #777171;
     text-align: center;
     font-size: 15px;
   }
-  .above-link ul li a {
+  .above-link-admin ul li a {
     color: indianred;
   }
-  .summer {
+  .summer-admin {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
   }
-  .summer button {
+  .summer-admin button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -2247,7 +2247,7 @@ select {
     font-weight: 600;
     padding: 10px 30px;
   }
-  .blue-area {
+  .blue-area-admin {
     background-color: #03303e;
     display: flex;
     flex-direction: column;
@@ -2257,7 +2257,7 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .blue-area2 {
+  .blue-area2-admin {
     background-color: #03303e;
     display: flex;
     flex-direction: column;
@@ -2267,15 +2267,15 @@ select {
     margin-top: 110%;
     height: fit-content;
   }
-  .blue2 {
+  .blue2-admin {
     padding: 0px 50px;
   }
-  .blue2 img {
+  .blue2-admin img {
     width: 100%;
     height: 200px;
     object-fit: contain;
   }
-  .blue-area1 {
+  .blue-area1-admin {
     position: relative;
     background-color: #03303e;
     display: flex;
@@ -2288,19 +2288,19 @@ select {
     margin: auto;
     height: fit-content;
   }
-  .complete {
+  .complete-admin {
     padding: 10px 0px;
     display: flex;
     justify-content: flex-end;
     width: 100%;
     align-items: center;
   }
-  .complete > div {
+  .complete-admin > div {
     margin: 0px 0px;
     display: flex;
     justify-content: space-between;
   }
-  .reject {
+  .reject-admin {
     padding: 10px 30px;
     color: white;
     background-color: indianred;
@@ -2309,14 +2309,14 @@ select {
     text-decoration: none;
     font-weight: 600;
   }
-  .paid {
+  .paid-admin {
     background-color: #60be68;
     color: white;
     border: none;
     font-weight: 600;
     padding: 22px 40px;
   }
-  .popup {
+  .popup-admin {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -2329,26 +2329,26 @@ select {
     border-radius: 20px;
     margin: 50% 15%;
   }
-  .popup img {
+  .popup-admin img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup h5 {
+  .popup-admin h5 {
     color: white;
     text-align: center;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-admin {
     width: 100%;
   }
-  .ppc {
+  .ppc-admin {
     width: 100%;
     margin: 0px auto;
   }
-  .popup button {
+  .popup-admin button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 50px;
@@ -2356,7 +2356,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .popup44 {
+  .popup44-admin {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -2369,26 +2369,26 @@ select {
     border-radius: 20px;
     margin: 150% 15%;
   }
-  .popup44 img {
+  .popup44-admin img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup44 h5 {
+  .popup44-admin h5 {
     color: white;
     text-align: center;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 20px;
   }
-  .pp {
+  .pp-admin {
     width: 100%;
   }
-  .ppc {
+  .ppc-admin {
     width: 100%;
     margin: 0px auto;
   }
-  .popup44 button {
+  .popup44-admin button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 50px;
@@ -2396,7 +2396,7 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .grey-area1 {
+  .grey-area1-admin {
     background-color: #e8e8e8;
     display: flex;
     padding: 10px 10px;
@@ -2408,7 +2408,7 @@ select {
     height: 500px;
   }
 
-  #customers1 {
+  #customers1-admin {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
@@ -2416,14 +2416,14 @@ select {
     color: #777171;
   }
 
-  #customers1 td,
-  #customers1 th {
+  #customers1-admin td,
+  #customers1-admin th {
     padding: 10px;
 
     letter-spacing: 1px;
   }
 
-  #customers1 th {
+  #customers1-admin th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
@@ -2433,60 +2433,60 @@ select {
     color: black;
   }
 
-  #customers {
+  #customers-admin {
     font-family: Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
     color: white;
   }
 
-  #customers td,
-  #customers th {
+  #customers-admin td,
+  #customers-admin th {
     padding: 8px;
     font-weight: 600;
   }
 
-  #customers th {
+  #customers-admin th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
 
     color: white;
   }
-  .fulltable {
+  .fulltable-admin {
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .fulltable1 {
+  .fulltable1-admin {
     margin-top: 30px;
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .fulltable2 {
+  .fulltable2-admin {
     margin-top: 50px;
     width: 100%;
     overflow-x: auto;
     overflow-y: hidden;
     white-space: nowrap;
   }
-  .thanos {
+  .thanos-admin {
     width: 5%;
     text-align: right;
   }
-  .execute {
+  .execute-admin {
     font-size: 14px;
     font-weight: 700;
   }
-  .another {
+  .another-admin {
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .review {
+  .review-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2544,19 +2544,19 @@ select {
     color: white;
     text-align: right;
   }
-  .user1-details h6 {
+  .user1-details-admin h6 {
     color: white;
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 1px;
   }
-  .summ {
+  .summ-admin {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
   }
-  .summ button {
+  .summ-admin button {
     background-color: #e26e4e;
     color: white;
     border: none;
@@ -2564,73 +2564,73 @@ select {
     font-weight: 600;
     padding: 10px 25px;
   }
-  .another1 {
+  .another1-admin {
     font-size: 14px;
     font-weight: 500;
     padding-top: 0px;
     color: grey;
   }
-  .anotherone {
+  .anotherone-admin {
     font-size: 14px;
     padding-top: 25px;
     font-weight: 500;
     color: grey;
   }
-  .toping {
+  .toping-admin {
     padding-top: 20px;
   }
-  .dinner {
+  .dinner-admin {
     display: grid;
     margin-top: -20px;
   }
-  .another1 {
+  .another1-admin {
     margin-top: 50px;
     font-size: 14px;
     font-weight: 500;
     color: grey;
   }
-  .input-boxer {
+  .input-boxer-admin {
     width: 100%;
     padding: 10px 0px;
   }
-  .nile {
+  .nile-admin {
     color: indianred;
     font-size: 33px;
     font-weight: 600;
     margin: 0px;
   }
-  .naira span {
+  .naira-admin span {
     font-weight: 600;
     font-size: 15px;
     letter-spacing: 1px;
   }
-  .nile-inner span {
+  .nile-inner-admin span {
     letter-spacing: 0px;
     text-align: right;
     font-size: 10px;
     padding-left: 40px;
   }
-  .rowwer {
+  .rowwer-admin {
     display: flex;
     padding: 0px 20px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
   }
-  .row1 {
+  .row1-admin {
     width: 100%;
   }
-  .hella-main {
+  .hella-main-admin {
     padding: 10px 0px;
     justify-content: center;
     display: flex;
     width: 100%;
     align-items: center;
   }
-  .hell {
+  .hell-admin {
     width: 50%;
   }
-  .hella {
+  .hella-admin {
     padding: 20px 70px;
     font-weight: 600;
     background-color: #60be68;
@@ -2638,7 +2638,7 @@ select {
     border: none;
   }
 
-  .input-boxer > input {
+  .input-boxer-admin > input {
     height: 45px;
     width: 100%;
     outline: none;
@@ -2651,20 +2651,20 @@ select {
     padding-left: 15px;
     font-weight: 600;
   }
-  .gether {
+  .gether-admin {
     display: flex;
     width: 100%;
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
   }
-  .bring {
+  .bring-admin {
     background-color: white;
     padding: 10px 10px;
     width: 90%;
   }
 
-  .review {
+  .review-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2672,7 +2672,7 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .review1 {
+  .review1-admin {
     text-decoration: none;
     color: white;
     background-color: rgb(226, 110, 78);
@@ -2691,20 +2691,20 @@ select {
     color: #777171;
     font-weight: 600;
   }
-  .sunami {
+  .sunami-admin {
     width: 100%;
     display: none;
     align-items: center;
     justify-content: center;
   }
 
-  .canto {
+  .canto-admin {
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
   }
-  .canto a {
+  .canto-admin a {
     text-decoration: none;
     color: white;
 
@@ -2714,7 +2714,7 @@ select {
     margin-right: 10px;
   }
 
-  .delete {
+  .delete-admin {
     text-decoration: none;
     color: white;
     background-color: red;
@@ -2722,7 +2722,7 @@ select {
     font-size: 14px;
     font-weight: 600;
   }
-  .bt-holder {
+  .bt-holder-admin {
     height: 400px;
     width: 100%;
     padding: 0px 0px;
@@ -2732,7 +2732,7 @@ select {
     justify-content: center;
   }
 
-  .bt-holder a {
+  .bt-holder-admin a {
     color: white;
     text-decoration: none;
     padding: 20px 10px;
@@ -2743,7 +2743,7 @@ select {
     text-align: center;
     border-radius: 8px;
   }
-  .popup1 {
+  .popup1-admin {
     position: absolute;
     display: flex;
     justify-content: center;
@@ -2756,12 +2756,12 @@ select {
     border-radius: 20px;
     margin: 55% 20%;
   }
-  .popup1 img {
+  .popup1-admin img {
     width: 100%;
     height: 120px;
     object-fit: contain;
   }
-  .popup1 h5 {
+  .popup1-admin h5 {
     color: white;
     margin: 10px;
     font-weight: 600;
@@ -2770,7 +2770,7 @@ select {
     font-size: 20px;
   }
 
-  .popup1 button {
+  .popup1-admin button {
     background-color: transparent;
     border: 1px solid white;
     padding: 12px 60px;
@@ -2778,25 +2778,25 @@ select {
     color: white;
     border-radius: 20px;
   }
-  .pagination {
+  .pagination-admin {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     width: 100%;
   }
-  .pagination1 {
+  .pagination1-admin {
     display: flex;
     align-items: center;
     padding: 50px 0px;
     justify-content: flex-start;
     width: 100%;
   }
-  .pagination1 form {
+  .pagination1-admin form {
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  .pagination1 form button {
+  .pagination1-admin form button {
     background-color: indianred;
     color: white;
     padding: 12px 12px;
@@ -2804,39 +2804,39 @@ select {
     border: none;
   }
 
-  .pagination1 form.nosubmit {
+  .pagination1-admin form.nosubmit {
     border: none;
     padding: 0;
   }
 
-  .pagination1 input.nosubmit {
+  .pagination1-admin input.nosubmit {
     width: 85%;
     border: none;
     display: block;
     padding: 9px 4px 9px 40px;
     background: white;
   }
-  .pagination h6 {
+  .pagination-admin h6 {
     font-weight: 600;
     margin-top: -10px;
     font-size: 20px;
   }
-  #pghold {
+  #pghold-admin {
     width: 100%;
   }
 
-  .sixty {
+  .sixty-admin {
     width: 120%;
     margin: 10px 0px;
   }
-  .sixtyi {
+  .sixtyi-admin {
     width: 100%;
     margin: 10px 10px;
   }
-  .sixty input {
+  .sixty-admin input {
     margin-left: 40px;
   }
-  .sixtyi select {
+  .sixtyi-admin select {
     height: 50px;
     background-color: white;
     color: #777171;
@@ -2847,14 +2847,14 @@ select {
     font-weight: 600;
     margin-left: 10px;
   }
-  .pagination1 form {
+  .pagination1-admin form {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
     width: 100%;
   }
-  .pagination1 form button {
+  .pagination1-admin form button {
     background-color: indianred;
     color: white;
     padding: 12px 12px;
@@ -2863,29 +2863,29 @@ select {
     margin: 0px 5px;
   }
 
-  .pagination1 form.nosubmit {
+  .pagination1-admin form.nosubmit {
     border: none;
     padding: 0;
   }
 
-  .pagination1 input.nosubmit {
+  .pagination1-admin input.nosubmit {
     width: 85%;
     border: none;
     display: block;
     padding: 9px 4px 9px 40px;
     background: white;
   }
-  .monaco {
+  .monaco-admin {
     display: flex;
     justify-content: flex-start;
   }
-  .monaco button {
+  .monaco-admin button {
     background-color: indianred;
     color: white;
     border: none;
     padding: 7px 20px;
   }
-  #mobile {
+  #mobile-admin {
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -2893,7 +2893,7 @@ select {
     color: white;
     padding-left: 250px;
   }
-  #mobile1 {
+  #mobile1-admin {
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -2902,7 +2902,7 @@ select {
     padding-right: 60px;
     margin-bottom: 20px;
   }
-  #close1 {
+  #close1-admin {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -2911,7 +2911,7 @@ select {
     color: white;
   }
 
-  #close2 {
+  #close2-admin {
     position: absolute;
     top: 30px;
     left: 30px;
@@ -2919,7 +2919,7 @@ select {
     display: flex;
     color: indianred;
   }
-  .revieww {
+  .revieww-admin {
     text-decoration: none;
     color: white;
 

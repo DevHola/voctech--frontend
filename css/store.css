@@ -5,22 +5,22 @@
   font-family: Segoe UI;
   box-sizing: border-box;
 }
-.train-enter h1 {
+.train-enter-store h1 {
   font-weight: 600;
   font-size: 55px;
   font-family: "Inter", sans-serif;
 }
-.video {
+.video-store {
   width: 570px;
   height: 340px;
 }
-.answer a {
+.answer-store a {
   text-decoration: none;
 }
-.mad {
+.mad-store {
   display: none;
 }
-.letholder {
+.letholder-store {
   background: #d9d9d9;
   padding: 0px 10px;
   height: 30px;
@@ -31,10 +31,10 @@
   border-top-right-radius: 10px;
   align-items: center;
 }
-.letholder span {
+.letholder-store span {
   color: indianred;
 }
-.bturn {
+.bturn-store {
   background-color: indianred;
   height: fit-content;
   display: flex;
@@ -43,13 +43,13 @@
   border-radius: 20px;
   padding: 10px 10px;
 }
-.textholder {
+.textholder-store {
   padding: 0px 10px;
   color: black;
   font-size: 15px;
 }
 
-.header {
+.header-store {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -61,7 +61,7 @@
   align-items: flex-end;
   margin-left: 80px;
 }
-.Request {
+.Request-store {
   background-color: #e26e4e;
   color: white;
   padding: 20px 60px;
@@ -79,60 +79,60 @@ body {
   background-size: fill;
   background-position: 50px -20px;
 }
-.product-holder {
+.product-holder-store {
   display: flex;
   flex-wrap: wrap;
   padding: 0px 120px;
   justify-content: space-between;
 }
-.product-holder > div {
+.product-holder-store > div {
   flex: 33%;
 
   margin-bottom: 10px;
 }
-.product-item {
+.product-item-store {
   width: 100%;
   padding: 10px;
 }
-.Train-holder {
+.Train-holder-store {
   display: flex;
   padding: 10px 310px;
   justify-content: space-between;
 }
-.train-main {
+.train-main-store {
   max-width: 700px;
   padding-right: 20px;
 }
-.train-main h4 {
+.train-main-store h4 {
   font-size: 35px;
   font-family: inter;
 }
-.train-video-below {
+.train-video-below-store {
   padding-top: 50px;
   width: 580px;
 }
-.train-video-below h5 {
+.train-video-below-store h5 {
   font-weight: 400;
   font-size: 25px;
 }
-.train-video-below p {
+.train-video-below-store p {
   font-weight: 400;
   font-size: 15px;
   padding: 0px 5px;
 }
-.train-side {
+.train-side-store {
   display: grid;
   max-width: 250px;
 }
-.sidetrain {
+.sidetrain-store {
   margin: 10px 0px;
 }
-.sidetrain img {
+.sidetrain-store img {
   width: 100%;
   height: 170px;
   object-fit: contain;
 }
-.q-hold {
+.q-hold-store {
   height: 50px;
   background-color: transparent;
   background-image: url("../images/Group\ 30.png");
@@ -140,26 +140,26 @@ body {
   background-size: contain;
   margin: 10px 0px;
 }
-.q-hold p {
+.q-hold-store p {
   padding: 10px 12px;
   color: indianred;
 }
 
-.store h1 {
+.store-store h1 {
   font-weight: 600;
   font-size: 55px;
 }
-.store img {
+.store-store img {
   height: 350px;
   border-radius: 15px;
   width: 100%;
   object-fit: cover;
 }
-.store h6 {
+.store-store h6 {
   font-weight: 400;
   font-size: 25px;
 }
-.store button {
+.store-store button {
   text-decoration: none;
   padding: 5px 30px;
   background-color: rgb(250, 193, 44);
@@ -169,7 +169,7 @@ body {
   border: none;
 }
 
-.logo {
+.logo-store {
   height: auto;
   width: auto;
   object-fit: cover;
@@ -186,47 +186,47 @@ body {
 #navigation li a:hover {
   color: indianred;
 }
-.nav-button {
+.nav-button-store {
   display: flex;
 
   align-items: center;
 }
-.nav-button {
+.nav-button-store {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
 }
-#login {
+#login-store {
   display: none;
 }
 
-#signup {
+#signup-store {
   display: none;
 }
-.nav-button li {
+.nav-button-store li {
   list-style: none;
   padding: 8px 30px;
   border-radius: 80px;
   border: 1px solid #e26e4e;
   margin-right: 10px;
 }
-.nav-button li a {
+.nav-button-store li a {
   text-decoration: none;
   font-style: normal;
   font-weight: 700;
   font-size: 12px;
   line-height: 15px;
 }
-.nav-button li:nth-last-child(1) {
+.nav-button-store li:nth-last-child(1) {
   background: #e26e4e;
   border-radius: 80px;
 }
-.nav-button li a:nth-last-child(1) {
+.nav-button-store li a:nth-last-child(1) {
   text-decoration: none;
   color: white;
   font-size: 15px;
 }
-.hero h1 {
+.hero-store h1 {
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
@@ -234,7 +234,7 @@ body {
   line-height: 77px;
   letter-spacing: 1px;
 }
-.about_home {
+.about_home-store {
   padding: 0px 180px;
   font-style: normal;
   font-weight: 400;
@@ -248,44 +248,44 @@ body {
   align-items: center;
 }
 
-.trow {
+.trow-store {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
 }
-.trowwer {
+.trowwer-store {
   font-style: normal;
   font-weight: 600;
   font-size: 37.5px;
 }
-.product-details {
+.product-details-store {
   display: flex;
   padding: 3px;
   text-align: center;
   justify-content: flex-end;
   margin-top: 10px;
 }
-.product-details h6 {
+.product-details-store h6 {
   text-align: center;
   padding-right: 60px;
 }
-.sidetrain a {
+.sidetrain-store a {
   text-decoration: none;
   color: black;
   padding: 0px 2px;
 }
 
 @media (max-width: 991px) {
-  .textholder {
+  .textholder-store {
     padding: 0px 10px;
     color: black;
     font-size: 15px;
   }
 
-  .mad {
+  .mad-store {
     display: none;
   }
-  #login {
+  #login-store {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -299,7 +299,7 @@ body {
     color: white;
   }
 
-  #signup {
+  #signup-store {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -313,117 +313,117 @@ body {
     margin-bottom: 10px;
   }
 
-  .video {
+  .video-store {
     width: 500px;
     height: 340px;
   }
-  .train-main {
+  .train-main-store {
     max-width: 700px;
     padding-right: 20px;
   }
-  .train-main h4 {
+  .train-main-store h4 {
     font-size: 35px;
     font-family: inter;
   }
-  .train-enter h1 {
+  .train-enter-store h1 {
     font-size: 30px;
   }
-  .train-video-below {
+  .train-video-below-store {
     padding-top: 50px;
     width: 500px;
   }
-  .train-video-below h5 {
+  .train-video-below-store h5 {
     font-weight: 400;
     font-size: 25px;
   }
 
-  .Train-holder {
+  .Train-holder-store {
     display: flex;
     padding: 10px 40px;
     justify-content: space-between;
   }
-  .train-side {
+  .train-side-store {
     display: grid;
     max-width: 450px;
   }
-  .train-side p {
+  .train-side-store p {
   }
-  .sidetrain {
+  .sidetrain-store {
     height: 120px;
     margin: 15px 0px;
     padding: 10px;
   }
-  .sidetrain img {
+  .sidetrain-store img {
     width: 100%;
     height: 100px;
     object-fit: contain;
   }
-  .sidetrain a {
+  .sidetrain-store a {
     text-decoration: none;
     color: black;
     padding: 0px 2px;
   }
 
-  .contact {
+  .contact-store {
     background-image: url("./images/Ellipse\ 2.png");
     background-repeat: no-repeat;
     height: 60vh;
     background-size: initial;
   }
 
-  .contact h1 {
+  .contact-store h1 {
     font-size: 30px;
     font-weight: 600;
   }
-  .contact img {
+  .contact-store img {
     height: 250px;
     object-fit: cover;
     width: 100%;
   }
-  .twist {
+  .twist-store {
     margin-top: 115px;
   }
-  .twitimg {
+  .twitimg-store {
     margin-right: 90px;
     margin-top: 30px;
   }
 
-  .product-holder {
+  .product-holder-store {
     display: flex;
     flex-wrap: wrap;
     padding: 0px 50px;
     justify-content: space-between;
   }
-  .product-holder > div {
+  .product-holder-store > div {
     flex: 33%;
 
     margin-bottom: 10px;
   }
-  .product-item {
+  .product-item-store {
     width: 100%;
     padding: 10px;
   }
-  .store img {
+  .store-store img {
     height: 250px;
     border-radius: 15px;
     width: 100%;
     object-fit: cover;
   }
-  .tinner {
+  .tinner-store {
     background-image: url("./images//Group\ 27.png");
     background-repeat: no-repeat;
     background-size: auto;
     background-position: 0px 150px;
   }
-  .about_home {
+  .about_home-store {
     padding: 0px 40px;
   }
-  .logo {
+  .logo-store {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-store {
     display: flex;
     border-bottom: 1px solid indianred;
     justify-content: space-between;
@@ -432,7 +432,7 @@ body {
     background-color: white;
     margin-bottom: 40px;
   }
-  .hero h1 {
+  .hero-store h1 {
     font-family: "Inter";
     font-style: normal;
     font-weight: 600;
@@ -472,35 +472,35 @@ body {
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-store {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-store {
     display: none;
     justify-content: space-evenly;
     align-items: center;
   }
-  .nav-button li {
+  .nav-button-store li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
     border: 1px solid #e26e4e;
     margin-right: 10px;
   }
-  .nav-button li a {
+  .nav-button-store li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
     line-height: 15px;
   }
-  .nav-button li:nth-last-child(1) {
+  .nav-button-store li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-store li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;
@@ -520,33 +520,33 @@ body {
     padding-left: 20px;
   }
 
-  .cancel {
+  .cancel-store {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 10px;
   }
-  .hitter {
+  .hitter-store {
     height: 65vh;
   }
   #navigation.active {
     right: 0px;
   }
-  .in {
+  .in-store {
     color: white;
     background-color: indianred;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 10px;
   }
-  .store h1 {
+  .store-store h1 {
     font-weight: 600;
     font-size: 40px;
   }
 }
 @media (max-width: 450px) {
-  #login {
+  #login-store {
     display: grid;
     list-style: none;
     padding: 8px 38px;
@@ -560,11 +560,11 @@ body {
     color: white;
   }
 
-  .mad {
+  .mad-store {
     display: grid;
   }
 
-  #signup {
+  #signup-store {
     display: grid;
     list-style: none;
     padding: 8px 30px;
@@ -577,11 +577,11 @@ body {
     line-height: 15px;
     margin-bottom: 10px;
   }
-  .video {
+  .video-store {
     max-width: 370px;
     height: 340px;
   }
-  .q-hold {
+  .q-hold-store {
     height: 50px;
     background-color: transparent;
     background-image: url("../images/Group\ 30.png");
@@ -589,100 +589,100 @@ body {
     background-size: contain;
     margin: 10px 0px;
   }
-  .q-hold p {
+  .q-hold-store p {
     padding: 2px 8px;
     color: indianred;
   }
 
-  .train-main {
+  .train-main-store {
     max-width: 400px;
   }
-  .train-main h4 {
+  .train-main-store h4 {
     font-size: 20px;
     font-family: inter;
   }
-  .train-enter h1 {
+  .train-enter-store h1 {
     font-size: 30px;
   }
-  .train-video-below {
+  .train-video-below-store {
     padding-top: 50px;
     width: 370px;
   }
-  .train-video-below h5 {
+  .train-video-below-store h5 {
     font-weight: 400;
     font-size: 25px;
   }
-  .train-video-below p {
+  .train-video-below-store p {
   }
-  .Train-holder {
+  .Train-holder-store {
     display: flex;
     flex-direction: column;
     padding: 0px 15px;
     justify-content: space-between;
   }
-  .train-side {
+  .train-side-store {
     display: grid;
   }
-  .train-side p {
+  .train-side-store p {
   }
-  .sidetrain {
+  .sidetrain-store {
     height: fit-content;
     margin: 15px 0px;
     padding: 10px;
   }
-  .sidetrain img {
+  .sidetrain-store img {
     width: 100%;
     height: 250px;
     object-fit: contain;
   }
-  .sidetrain a {
+  .sidetrain-store a {
     text-decoration: none;
     color: black;
     padding: 0px 2px;
     text-align: center;
   }
 
-  .contact {
+  .contact-store {
     background-image: url("./images/Ellipse\ 2.png");
     background-repeat: no-repeat;
     height: 60vh;
     background-size: initial;
   }
-  .store h1 {
+  .store-store h1 {
     font-weight: 600;
     font-size: 30px;
   }
 
-  .contact h1 {
+  .contact-store h1 {
     font-size: 30px;
     font-weight: 600;
   }
-  .contact img {
+  .contact-store img {
     height: 250px;
     object-fit: cover;
     width: 100%;
   }
-  .twist {
+  .twist-store {
     margin-top: 0px;
   }
-  .twitimg {
+  .twitimg-store {
     margin-top: 30px;
   }
-  .cancel {
+  .cancel-store {
     color: indianred;
     background-color: transparent;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .in {
+  .in-store {
     color: white;
     background-color: indianred;
     border-radius: 80px;
     border: 1px solid indianred;
     padding: 10px 20px;
   }
-  .formholder h1 {
+  .formholder-store h1 {
     font-family: Montserrat;
     font-style: normal;
     font-weight: 700;
@@ -692,15 +692,15 @@ body {
     color: black;
     text-align: center;
   }
-  .hitter {
+  .hitter-store {
     height: 55vh;
   }
-  .logo {
+  .logo-store {
     height: auto;
     width: auto;
     object-fit: cover;
   }
-  .header {
+  .header-store {
     display: flex;
 
     justify-content: space-between;
@@ -743,17 +743,17 @@ body {
   #navigation li a:hover {
     color: indianred;
   }
-  .nav-button {
+  .nav-button-store {
     display: none;
 
     align-items: center;
   }
-  .nav-button {
+  .nav-button-store {
     display: none;
     justify-content: space-evenly;
     align-items: center;
   }
-  .nav-button li {
+  .nav-button-store li {
     list-style: none;
     padding: 8px 30px;
     border-radius: 80px;
@@ -778,45 +778,45 @@ body {
     right: 0px;
   }
 
-  .nav-button li a {
+  .nav-button-store li a {
     text-decoration: none;
     font-style: normal;
     font-weight: 700;
     font-size: 12px;
     line-height: 15px;
   }
-  .nav-button li:nth-last-child(1) {
+  .nav-button-store li:nth-last-child(1) {
     background: #e26e4e;
     border-radius: 80px;
   }
-  .nav-button li a:nth-last-child(1) {
+  .nav-button-store li a:nth-last-child(1) {
     text-decoration: none;
     color: white;
     font-size: 15px;
   }
-  .product-holder {
+  .product-holder-store {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     padding: 0px 50px;
     justify-content: space-between;
   }
-  .product-holder > div {
+  .product-holder-store > div {
     flex: 33%;
 
     margin-bottom: 10px;
   }
-  .product-item {
+  .product-item-store {
     width: 100%;
     padding: 10px;
   }
-  .store img {
+  .store-store img {
     height: 250px;
     border-radius: 15px;
     width: 100%;
     object-fit: cover;
   }
-  .textholder {
+  .textholder-store {
     padding: 0px 10px;
     color: black;
     font-size: 13px;
